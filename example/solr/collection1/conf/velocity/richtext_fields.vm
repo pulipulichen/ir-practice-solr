@@ -1,24 +1,23 @@
 
 ## 簡易顯示欄位
 #set($result_fields = [
-    {'name': 'title', 'label': false, 'access_point': false},
-    {'name': 'author', 'label': 'Author', 'access_point': false},
-    {'name': 'publish_year', 'label': 'Publish Year', 'access_point': false},
-    {'name': 'subject', 'label': 'Subject', 'access_point': false}
+    {'name': 'title', 'label': false, 'access_point': "#lensNoQ&q=id:%22$docId%22&mlt=true"},
+    {'name': 'author', 'label': 'Author', 'access_point': true},
+    {'name': 'publish_year', 'label': 'Publish Year', 'access_point': true},
+    {'name': 'subject', 'label': 'Subject', 'access_point': true}
 ])
 
 ## 詳細顯示欄位
 #set($detail_fields = [
-    {'name': 'features', 'label': 'Features', 'access_point': false},
     {'name': 'title', 'label': false, 'access_point': false},
-    {'name': 'author', 'label': 'Author', 'access_point': false},
+    {'name': 'author', 'label': 'Author', 'access_point': true},
     {'name': 'publish_year', 'label': 'Publish Year', 'access_point': false},
-    {'name': 'subject', 'label': 'Subject', 'access_point': false},
+    {'name': 'subject', 'label': 'Subject', 'access_point': true},
     {'name': 'edition', 'label': 'Edition', 'access_point': false},
     {'name': 'isbn', 'label': 'ISBN', 'access_point': false},
     {'name': 'e_book_isbn', 'label': 'E-book ISBN', 'access_point': false},
-    {'name': 'ddc', 'label': 'DDC', 'access_point': false},
-    {'name': 'lcc', 'label': 'LCC', 'access_point': false}
+    {'name': 'ddc', 'label': 'DDC', 'access_point': true},
+    {'name': 'lcc', 'label': 'LCC', 'access_point': true}
 ])
 
 ## 類似資料的顯示
@@ -26,7 +25,7 @@
     {'name': 'title', 'label': false, 'access_point': true},
     {'name': 'author', 'label': 'Author', 'access_point': false},
     {'name': 'publish_year', 'label': 'Publish Year', 'access_point': false},
-    {'name': 'subject', 'label': 'Subject', 'access_point': false}
+    {'name': 'subject', 'label': 'Subject', 'access_point': true}
 ])
 
 ## 詳細檢索的欄位

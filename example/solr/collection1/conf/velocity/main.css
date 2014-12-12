@@ -168,7 +168,7 @@ a {
   padding-left: 33%;
   background: #eee;
   margin: 5px;
-  /*margin-left: 210px;*/
+  margin-left: 210px;
   padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -177,7 +177,7 @@ a {
   border: 1px solid #999;
   padding: 5px;
   margin: 5px;
-  /*margin-left: 210px;*/
+  margin-left: 210px;
   margin-bottom: 15px;
 }
 
@@ -227,56 +227,4 @@ li.show {
   width:80%;
   position: relative;
 
-}
-
-/** 
- * 以下隱藏功能
- */
-
-
-.navigators {
-  display:none;
-}
-
-.query-boost {
-  display:none;
-}
-
-
-#head {
-  text-align: center;
-}
-.query-box .inputs {
-  left:0;
-  text-align: center;
-}
-
-#query-form {
-  width: 100%;
-}
-
-.pagination {
-  padding-left:0;
-  text-align: center;
-}
-
-
-.read-more {
-  border-top: 1px solid #96d1f8;
-background: #65a9d7;
-background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
-background: -moz-linear-gradient(top, #3e779d, #65a9d7);
-padding: 5px 10px;
--webkit-border-radius: 8px;
--moz-border-radius: 8px;
-border-radius: 8px;
-box-shadow: rgba(0,0,0,1) 0 1px 0, rgba(0,0,0,90) 0 0 10px, rgba(0,0,0,90) 0 0 20px, rgba(0,0,0,90) 0 0 30px;
--webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
--moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
-text-shadow: rgba(0,0,0,.4) 0 1px 0;
-color: white;
-font-size: 14px;
-font-family: Georgia, serif;
-text-decoration: none;
-vertical-align: middle;
 }

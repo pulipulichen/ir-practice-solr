@@ -110,7 +110,6 @@
           <input type="text" id="q" name="q" value="$!esc.html($params.get('q'))"/>
         #end
         <input type="hidden" name="hl" value="true" />
-        <input type="submit" id="querySubmit"/>
         <input type="reset"/>
 
         #if($queryOpts == 'advance')
