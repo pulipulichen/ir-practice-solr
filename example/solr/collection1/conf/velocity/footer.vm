@@ -2,7 +2,7 @@
  *  Render the bottom section of the page visible to users
  *#
 
-<div class="ui inverted segment">
+<div class="ui inverted basic segment">
 
 <div class="ui stackable inverted divided relaxed grid">
 

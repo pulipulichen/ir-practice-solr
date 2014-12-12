@@ -12,6 +12,7 @@
 
 #set($mltOn = $params.getBool('mlt'))
 
+#if( $response.response.error.code  || $params.get('q') && $params.get('q') == "")
 <div class="ui basic segment center aligned">
 ## Show Error Message, if any
 #if( $response.response.error.code )
@@ -21,10 +22,13 @@
 #end
 #if($params.get('q') && $params.get('q') == "")
 <div class="ui warning message">
-  No search query. Display all results.
+    
+    <div class="header"><i class="icon help"></i>No search query</div>
+    Display all results.
 </div>
 #end
 </div>
+#end
 
 <div class="ui grid" style="margin:0">
 
@@ -44,7 +48,7 @@
 
 #if ($page.results_found > 0)
 ## Render Results, actual matching docs
-<div class="results ui attached segment">
+<div class="results ui attached items">
   #parse("results_list.vm")
 </div>
 

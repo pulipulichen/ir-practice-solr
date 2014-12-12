@@ -12,7 +12,7 @@
 
 
   #foreach ($hl_ary in $response.highlighting)
-    #if ($hl_ary['id'] == $docId) 
+    #if ($hl_ary['id'][0] == $docId) 
         #set($hitField = $hl_ary)
     #end
   #end
@@ -27,6 +27,16 @@
 #############################
 
 
+
+#if($mltOn != true)
+<div class="extra">
+            <div class="ui right floated primary button">
+              Read More
+              <i class="right chevron icon"></i>
+            </div>
+          </div>
+#end
+
 #set($fields = $detail_fields)
 #if ($mltOn != true)
     #set($fields = $result_fields)
@@ -39,6 +49,7 @@
     #set($access_point = $field['access_point'])
 
 
+    #set($ori_array = $doc.getFieldValue($name))
     #if (!$hitField[$name])
         #set($value_array = $doc.getFieldValue($name))
     #else
@@ -53,9 +64,14 @@
         #if (!$value_array.size())
             #set ($value_array = [$value_array])
         #end
+        #if (!$ori_array.size())
+            #set ($ori_array = [$ori_array])
+        #end
 
         #set( $comma = "" )
+        #set($i = 0)
         #foreach ($value in $value_array)
+            #set($ori_value = $ori_array[$i])
             <span>
                 #set($display_value = $value)
                 #if ($label == false)
@@ -83,7 +99,7 @@
                             $display_value
                         </a>
                     #else
-                        #set($access_point = '?q='+$name+':%22'+$value+'%22')
+                        #set($access_point = '?q='+$name+':%22'+$ori_value+'%22')
 
                         <a href="$access_point">
                             $display_value
@@ -92,6 +108,7 @@
                 #end
             <span>
             #set( $comma = "," )
+            #set($i = $i+1)
         #end
 
 
@@ -153,13 +170,6 @@
   #end
 
 </div>
-
-#if($mltOn != true)
-  <a class="read-more ui button icon" href="#lensNoQ&q=id:$docId&mlt=true">
-    <i class="content icon"></i>
-    Read More
-  </a>
-#end
 
 ## Display Similar Documents / MLT = More Like This
 #if($mltOn == true)

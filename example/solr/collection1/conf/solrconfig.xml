@@ -1021,8 +1021,8 @@
        <str name="hl.fl">*</str>
        <str name="hl.preserveMulti">true</str>
        <str name="hl.encoder">html</str>
-       <str name="hl.simple.pre">&lt;u&gt;&lt;i&gt;&lt;b&gt;</str>
-       <str name="hl.simple.post">&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;</str>
+       <str name="hl.simple.pre">&lt;b class="hit"&gt;</str>
+       <str name="hl.simple.post">&lt;/b&gt;</str>
        <str name="f.title.hl.fragsize">0</str>
        <str name="f.title.hl.alternateField">title</str>
        <str name="f.name.hl.fragsize">0</str>

@@ -9,8 +9,7 @@
 <div class="result-document ui vertical segment">
   ## Has a "name" field ?
   #if($doc.getFieldValue('name'))
-    ##parse("product_doc.vm")
-    #parse("richtext_doc.vm")
+    #parse("product_doc.vm")
 
   ## Has a "compName_s" field ?
   #elseif($doc.getFieldValue('compName_s'))
