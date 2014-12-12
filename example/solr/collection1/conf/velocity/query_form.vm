@@ -16,7 +16,7 @@
 
           <!------------------------------>
        
-        <div class="adv_search_form">
+        <div class="adv_search_form ui segment">
                 <div class="ui grid row template" style="display:none;">
                         #parse('adv_fields.vm')
                 </div>
@@ -33,7 +33,7 @@
             // 複製表格
             var _temp = $(".row.template").clone();
             _temp.removeClass("template")
-              .css("display", "table-row")
+              .css("display", "block")
               .appendTo(_form);
             
             _temp.find("select").css("visibility", "visible");

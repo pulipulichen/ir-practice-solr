@@ -3,7 +3,9 @@
  *#
 
 <form action="#{url_for_home}" method="GET">
-<div class="ui menu inverted">
+<div class="ui menu inverted"  style="position: fixed;
+top: 0;
+width: 100%;">
   <a class="item" style="background-image:url(#{url_root}/img/library-logo-small.png); padding-left: 50px;background-repeat:no-repeat;" href="#url_for_home#if($request.params.get('debugQuery'))?debugQuery=true#end">
     Apache Solr IR Practice
   </a>
@@ -41,7 +43,7 @@
 </div>
 </form>
 
-<h1 class="ui header center aligned">
+<h1 class="ui header center aligned" style="margin-top: 50px;">
     <a href="#url_for_home#if($request.params.get('debugQuery'))?debugQuery=true#end">
   <img src="#{url_root}/img/library-logo-medium.png"/>
   <div class="content">
