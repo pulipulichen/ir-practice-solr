@@ -4,52 +4,26 @@
 #set($queryOpts = $request.params.get("queryOpts"))
 #parse("richtext_fields.vm")
 
-<div class="query-box">
+<div class="query-box ui segment center aligned">
   <form id="query-form" action="#{url_for_home}" method="GET">
 
-    <div class="inputs">
+    <div class="">
       <span #annTitle("Add the query using the &q= parameter")>
-        Find:
+        <!-- Find: -->
+        
+        
         #if($queryOpts == 'advance')
 
           <!------------------------------>
-
-          <div class="row template" style="display:none;">
-            <select class="adv_boolean">
-              <option value="and">AND</option>
-              <option value="or">OR</option>
-            </select>
-
-            <select class="adv_field">
-
-              #foreach ($field in $advance_search_fields)
-                #set($name = $field['name'])
-                #set($label = $field['label'])
-                <option value="$name">$label</option>
-              #end
-
-            </select>
-            <span>: </span>
-            <input type="text" class="adv_value" />
-            
-          </div>
-
-          <div class="adv_search_form">
-
-          <div class="row">
-            <select class="adv_field">
-              #foreach ($field in $advance_search_fields)
-                #set($name = $field['name'])
-                #set($label = $field['label'])
-                <option value="$name">$label</option>
-              #end
-            </select>
-            <span>: </span>
-            <input type="text" class="adv_value" />
-            
-            <button type="button" class="add-field">Add Field</button>
-          </div>
-          </div>
+       
+        <div class="adv_search_form">
+                <div class="ui grid row template" style="display:none;">
+                        #parse('adv_fields.vm')
+                </div>
+                <div class="ui grid row">
+                    #parse('adv_fields.vm')
+                </div>
+        </div>
 
           <script>
           $(".add-field").click(function () {
@@ -59,11 +33,14 @@
             // 複製表格
             var _temp = $(".row.template").clone();
             _temp.removeClass("template")
-              .css("display", "block")
+              .css("display", "table-row")
               .appendTo(_form);
+            
+            _temp.find("select").css("visibility", "visible");
 
             var _btn = $(this);
-            _temp.append(_btn);
+            _temp.find(".td-adv-add-field").empty().append(_btn);
+            //_temp.append(_btn);
 
           });
           $("#query-form").submit(function () {
@@ -107,10 +84,17 @@
           <!------------------------------>
 
         #else
-          <input type="text" id="q" name="q" value="$!esc.html($params.get('q'))"/>
+            <div class="ui icon input">
+                <i class="search icon"></i>
+                <input type="text" id="q" name="q" value="$!esc.html($params.get('q'))"/>
+            </div>
         #end
-        <input type="hidden" name="hl" value="true" />
-        <input type="reset"/>
+
+        <div class="ui buttons">
+            <input type="submit" id="querySubmit" class="ui primary button" />
+            <div class="or"></div>
+            <input type="reset" class="ui button" />
+        </div>
 
         #if($queryOpts == 'advance')
           #if($params.get('q'))
@@ -119,6 +103,7 @@
         #end          
 
       </span>
+      <!--
       <div class="query-boost">
         <span #annTitle("Add the boost function &bf=price to the query")>
           <input type="checkbox" name="bf" value="price"
@@ -130,6 +115,7 @@
       #parse("query_spatial.vm")
       #parse("query_group.vm")
       </div>
+      -->
   </div>
 
     #if($request.params.get('debugQuery'))

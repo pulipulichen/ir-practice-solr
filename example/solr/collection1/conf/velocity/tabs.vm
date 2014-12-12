@@ -7,18 +7,18 @@
 
 #set($queryOpts = $params.get("queryOpts"))
 
-<div class="tabs-bar" #annTitle("Click the link to demonstrate various Solr capabilities")>
+<div class="two item tabular ui menu" #annTitle("Click the link to demonstrate various Solr capabilities")>
 
-  <span>Type of Search:</span>
+  <!-- <span>Type of Search:</span> -->
 
   ##queryOpts=$queryOpts
 
   ## return to Simple Search
   ##set( $selected = ($queryOpts && $queryOpts != "") )
   #set( $selected = ! $queryOpts )
-  <span class="tab #if($selected)selected#end">
+  <span class="item #if($selected)active#end">
     #if($selected)
-      Simple
+      Simple Search
     #else
       <a href="#url_for_home/?#debug#annotate">
         Simple</a>
@@ -27,7 +27,7 @@
 
   ## GEO-Spatial / Location Based
   #set( $selected = ($queryOpts == "advance") )
-  <span class="tab #if($selected)selected#end">
+  <span class="item #if($selected)active#end">
     #if($selected)
       #*Spatial*#
       Advance Search

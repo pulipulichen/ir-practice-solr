@@ -32,7 +32,7 @@
 
 body {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 10pt;
+  /*font-size: 10pt;*/
 }
 
 a {
@@ -119,11 +119,11 @@ a {
 }
 
 #query-form{
-  width: 80%;
+  /*width: 80%;*/
 }
 
 
-
+/*
 .query-box, .constraints {
   padding: 5px;
   margin: 5px;
@@ -131,7 +131,8 @@ a {
   font-size: 24px;
   letter-spacing: 0.08em;
 }
-
+*/
+/*
 .query-box #q {
   margin-left: 8px;
   width: 60%;
@@ -140,6 +141,7 @@ a {
   font-size: 1em;
   padding: 0.4em;
 }
+*/
 
 .query-box {
   
@@ -153,11 +155,12 @@ a {
   font-size: 0.8em;
 }
 
+/*
 .query-box .inputs{
   left: 180px;
   position: relative;
-  
 }
+*/
 
 #logo {
   margin: 10px;
@@ -227,4 +230,8 @@ li.show {
   width:80%;
   position: relative;
 
+}
+
+form {
+    margin: 0;
 }
