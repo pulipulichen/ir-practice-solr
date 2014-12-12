@@ -99,7 +99,7 @@
         </div>
 
         #if($queryOpts == 'advance')
-          #if($params.get('q'))
+          #if($params.get('q') && $params.get('q') != "")
             <div>Your search query: $params.get('q')</div>
           #end
         #end          

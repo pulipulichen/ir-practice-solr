@@ -23,7 +23,9 @@
     ${response.responseHeader.QTime} ms
   </span>
 
+  #if ($page.results_found > 0)
   Page <span class="page-num">$page.current_page_number</span>
     of <span class="page-count">$page.page_count</span>
+  #end
 
 #end   ## end else non-grouped results, normal pagination

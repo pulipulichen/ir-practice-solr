@@ -12,7 +12,23 @@
 
 #set($mltOn = $params.getBool('mlt'))
 
+<div class="ui basic segment center aligned">
+## Show Error Message, if any
+#if( $response.response.error.code )
+<div class="ui error message">
+  #parse("error.vm")
+</div>
+#end
+#if($params.get('q') && $params.get('q') == "")
+<div class="ui warning message">
+  No search query. Display all results.
+</div>
+#end
+</div>
+
 <div class="ui grid" style="margin:0">
+
+
 #if (!$mltOn)
     <div class="four wide column">
         <div class="navigators">
@@ -25,13 +41,8 @@
   #parse("pagination_top.vm")
 </div>
 
-## Show Error Message, if any
-#if( $response.response.error.code )
-<div class="error ui attached segment">
-  #parse("error.vm")
-</div>
-#end
 
+#if ($page.results_found > 0)
 ## Render Results, actual matching docs
 <div class="results ui attached segment">
   #parse("results_list.vm")
@@ -40,6 +51,8 @@
 <div class="pagination ui tertiary bottom attached segment segment center aligned">
   #parse("pagination_bottom.vm")
 </div>
+#end
+
     </div>
 #else
     <div class="sixteen wide column">
