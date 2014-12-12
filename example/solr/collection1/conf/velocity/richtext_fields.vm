@@ -9,6 +9,7 @@
 
 ## 詳細顯示欄位
 #set($detail_fields = [
+    {'name': 'features', 'label': 'Features', 'access_point': false},
     {'name': 'title', 'label': false, 'access_point': false},
     {'name': 'author', 'label': 'Author', 'access_point': false},
     {'name': 'publish_year', 'label': 'Publish Year', 'access_point': false},

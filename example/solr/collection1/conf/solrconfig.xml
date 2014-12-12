@@ -989,7 +989,6 @@
        <!-- Faceting defaults -->
        <str name="facet">on</str>
        <str name="facet.missing">true</str>
-       <!--
        <str name="facet.field">cat</str>
        <str name="facet.field">manu_exact</str>
        <str name="facet.field">content_type</str>
@@ -1007,21 +1006,20 @@
        <int name="f.popularity.facet.range.start">0</int>
        <int name="f.popularity.facet.range.end">10</int>
        <int name="f.popularity.facet.range.gap">3</int>
-       
-       <str name="facet.range">publish_year</str>
-       <str name="f.publish_year.facet.range.start">0</str>
-       <str name="f.publish_year.facet.range.end">NOW</str>
-       <str name="f.publish_year.facet.range.gap">+1YEAR</str>
-       <str name="f.publish_year.facet.range.other">before</str>
-       <str name="f.publish_year.facet.range.other">after</str>
-        -->
+       <str name="facet.range">manufacturedate_dt</str>
+       <str name="f.manufacturedate_dt.facet.range.start">NOW/YEAR-10YEARS</str>
+       <str name="f.manufacturedate_dt.facet.range.end">NOW</str>
+       <str name="f.manufacturedate_dt.facet.range.gap">+1YEAR</str>
+       <str name="f.manufacturedate_dt.facet.range.other">before</str>
+       <str name="f.manufacturedate_dt.facet.range.other">after</str>
+
        <!-- Highlighting defaults -->
        <str name="hl">on</str>
-       <str name="hl.fl">content features title name</str>
+       <str name="hl.fl">*</str>
        <str name="hl.preserveMulti">true</str>
        <str name="hl.encoder">html</str>
-       <str name="hl.simple.pre">&lt;b&gt;</str>
-       <str name="hl.simple.post">&lt;/b&gt;</str>
+       <str name="hl.simple.pre">&lt;u&gt;</str>
+       <str name="hl.simple.post">&lt;/u&gt;</str>
        <str name="f.title.hl.fragsize">0</str>
        <str name="f.title.hl.alternateField">title</str>
        <str name="f.name.hl.fragsize">0</str>

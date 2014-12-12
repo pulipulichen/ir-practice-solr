@@ -1,0 +1,19 @@
+<add><doc>
+	<field name="id">1</field>
+	<field name="title">Head First深入淺出HTML、CSS與XHTML</field>
+	<field name="author">佛利曼(Elisabeth Freeman)</field>
+	<field name="author">佛利曼(Eric Freeman)</field>
+	<field name="translator">蔡永琪</field>
+	<field name="publisher">學貫行銷</field>
+	<field name="place">臺北市</field>
+	<field name="publish_year">2007</field>
+	<field name="edition">1</field>
+	<field name="page">644</field>
+	<field name="thickness">23</field>
+	<field name="isbn">978986907</field>
+	<field name="subject">HTML</field>
+	<field name="subject">CSS</field>
+	<field name="subject">XHTML</field>
+	<field name="subject">網頁設計</field>
+	<field name="subject">全球資訊網</field>
+</doc></add>

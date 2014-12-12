@@ -10,15 +10,20 @@
 ## * mimeExtensionsMap, AKA extMap
 
 
+
+  #foreach ($hl_ary in $response.highlighting)
+        #set($hitField = $hl_ary)
+  #end
+
   #set($mlt = $mltResults.get($docId))
   #set($mltOn = $params.getBool('mlt'))
-
 
 #############################
 
 #parse("richtext_fields.vm")
 
 #############################
+
 
 #set($fields = $detail_fields)
 #if ($mltOn != true)
@@ -31,8 +36,11 @@
     #set($label = $field['label'])
     #set($access_point = $field['access_point'])
 
-
-    #set($value_array = $doc.getFieldValue($name))
+    #if ($hitField[$name])
+        #set($value_array = $hitField[$name])
+    #else
+        #set($value_array = $doc.getFieldValue($name))
+    #end
 
     <div>
         #if($label != false)
