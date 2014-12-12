@@ -12,7 +12,9 @@
 
 
   #foreach ($hl_ary in $response.highlighting)
+    #if ($hl_ary['id'] == $docId) 
         #set($hitField = $hl_ary)
+    #end
   #end
 
   #set($mlt = $mltResults.get($docId))
@@ -36,10 +38,11 @@
     #set($label = $field['label'])
     #set($access_point = $field['access_point'])
 
-    #if ($hitField[$name])
-        #set($value_array = $hitField[$name])
-    #else
+
+    #if (!$hitField[$name])
         #set($value_array = $doc.getFieldValue($name))
+    #else
+        #set($value_array = $hitField[$name])
     #end
 
     <div>
@@ -59,20 +62,33 @@
                     #set($display_value = "<strong>"+$value+"</strong>")
                 #end
 
-
                 $comma
 
                 #if($access_point==false)
-                    $display_value
+                    #if($name == 'title')
+                        <h2 class="ui header">
+                            <i class="book medium icon" style="display:inline-block;padding-top:0;font-size:1em;"></i>
+                            $display_value
+                        </h2>
+                    #else
+                        $display_value
+                    #end
+
                 #else
                     #if($name == 'title')
                         #set($access_point = '?q=id:%22'+$docId+'%22&mlt=true')
+                        <i class="book medium icon"></i>
+                        <a href="$access_point" class="ui medium header">
+                            
+                            $display_value
+                        </a>
                     #else
                         #set($access_point = '?q='+$name+':%22'+$value+'%22')
+
+                        <a href="$access_point">
+                            $display_value
+                        </a>
                     #end
-                    <a href="$access_point">
-                        $display_value
-                    </a>
                 #end
             <span>
             #set( $comma = "," )
@@ -139,7 +155,10 @@
 </div>
 
 #if($mltOn != true)
-  <div><a class="read-more" href="#lensNoQ&q=id:$docId&mlt=true">Read More</a></div>
+  <a class="read-more ui button icon" href="#lensNoQ&q=id:$docId&mlt=true">
+    <i class="content icon"></i>
+    Read More
+  </a>
 #end
 
 ## Display Similar Documents / MLT = More Like This
@@ -148,7 +167,8 @@
   #set($mlt = $mltResults.get($docId))
   #set($mltOn = $params.getBool('mlt'))
   #if($mltOn == true)
-    <div class="field-name">
+    <div class="ui segment">
+    <div class="field-name ui ribbon label">
       Similar Items
     </div>
   #end
@@ -216,9 +236,20 @@
     </ul>
   ## Else MLT Enabled but no mlt results for this query
   #elseif($mltOn && $mlt.size() == 0)
+    
     <div>No Similar Items Found</div>
   #end
 </div>  ## div class=mlt
+#end
+#if($mltOn == true)
+    </div>
+    
+    <div class="ui basic segment center aligned">
+        <button type="button" onclick="history.back()" class="ui button icon">
+            <i class="reply icon"></i>
+            Back to search results
+        </button>
+    </div>
 #end
 
 

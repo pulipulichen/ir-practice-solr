@@ -10,24 +10,52 @@
 #parse('query_form.vm')
 #parse('did_you_mean.vm')
 
-<div class="navigators">
-  #parse("facets.vm")
-</div>
+#set($mltOn = $params.getBool('mlt'))
 
-<div class="pagination">
+<div class="ui grid" style="margin:0">
+#if (!$mltOn)
+    <div class="four wide column">
+        <div class="navigators">
+          #parse("facets.vm")
+        </div>
+    </div>
+
+    <div class="twelve wide column">
+<div class="pagination ui tertiary top attached segment center aligned">
   #parse("pagination_top.vm")
 </div>
 
 ## Show Error Message, if any
-<div class="error">
+#if( $response.response.error.code )
+<div class="error ui attached segment">
   #parse("error.vm")
 </div>
+#end
 
 ## Render Results, actual matching docs
-<div class="results">
+<div class="results ui attached segment">
   #parse("results_list.vm")
 </div>
 
-<div class="pagination">
+<div class="pagination ui tertiary bottom attached segment segment center aligned">
   #parse("pagination_bottom.vm")
+</div>
+    </div>
+#else
+    <div class="sixteen wide column">
+
+    ## Show Error Message, if any
+    #if( $response.response.error.code )
+    <div class="error ui top attached segment">
+      #parse("error.vm")
+    </div>
+    #end
+    ## Render Results, actual matching docs
+    <div class="results ui bottom attached segment">
+      #parse("results_list.vm")
+    </div>
+
+    </div>
+#end
+
 </div>

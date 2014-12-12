@@ -7987,3 +7987,639 @@ INFO  - 2014-12-12 21:49:21.252; org.apache.solr.core.SolrCore; [collection1] we
 INFO  - 2014-12-12 21:49:21.771; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
 INFO  - 2014-12-12 21:49:21.771; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
 INFO  - 2014-12-12 21:49:21.771; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:52:06.249; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=25 
+INFO  - 2014-12-12 21:52:06.755; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:52:06.756; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 21:52:06.755; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:52:48.068; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=13 
+INFO  - 2014-12-12 21:52:48.508; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:52:48.512; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 21:52:48.514; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 21:53:00.704; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=16 
+INFO  - 2014-12-12 21:53:01.142; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 21:53:01.148; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 21:53:01.148; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:53:41.309; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 21:53:41.751; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 21:53:41.756; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:53:41.755; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 21:55:17.757; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 21:55:18.240; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=3 
+INFO  - 2014-12-12 21:55:18.241; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 21:55:18.240; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 21:58:21.907; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=14 
+INFO  - 2014-12-12 21:58:22.388; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:58:22.389; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:58:22.389; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 21:58:37.372; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 21:58:37.850; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 21:58:37.852; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 21:58:37.851; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 21:58:55.252; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=18 
+INFO  - 2014-12-12 21:58:55.744; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 21:58:55.745; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 21:58:55.744; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 21:59:12.375; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=19 
+INFO  - 2014-12-12 21:59:12.820; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:59:12.821; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 21:59:12.824; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 21:59:29.871; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=16 
+INFO  - 2014-12-12 21:59:30.409; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 21:59:30.410; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 21:59:30.409; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:00:55.917; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=13 
+INFO  - 2014-12-12 22:00:56.439; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:00:56.443; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:00:56.452; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:01:15.879; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:01:16.325; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:01:16.326; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:01:16.326; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:01:47.400; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=12 
+INFO  - 2014-12-12 22:01:47.840; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:01:47.846; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:01:47.847; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:01:59.582; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:02:00.058; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:02:00.060; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:02:00.059; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:02:14.994; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=17 
+INFO  - 2014-12-12 22:02:15.501; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:02:15.502; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:02:15.501; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:02:37.441; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:02:37.899; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:02:37.901; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:02:37.899; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:03:36.136; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=11 
+INFO  - 2014-12-12 22:03:36.660; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:03:36.671; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:03:36.682; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:04:03.153; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:04:03.654; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:04:03.657; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:04:03.657; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:05:02.906; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:05:03.353; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:05:03.358; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:05:03.358; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:05:30.270; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:05:30.720; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:05:30.721; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:05:30.723; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:07:15.484; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:07:15.991; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:07:15.996; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:07:15.996; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:07:49.690; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=12 
+INFO  - 2014-12-12 22:07:50.192; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:07:50.193; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:07:50.192; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:10:33.696; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:10:34.186; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:10:34.188; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:10:34.189; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:10:59.002; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=11 
+INFO  - 2014-12-12 22:10:59.629; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:10:59.632; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:10:59.631; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:15:44.794; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:15:45.270; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:15:45.272; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:15:45.271; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:16:16.959; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:16:17.441; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:16:17.447; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:16:17.443; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:17:02.567; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:17:03.020; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:17:03.021; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:17:03.020; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:17:44.000; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:17:44.477; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:17:44.478; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:17:44.478; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:17:55.407; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=20 
+INFO  - 2014-12-12 22:17:55.926; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:17:55.926; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:17:55.926; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:18:25.920; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=13 
+INFO  - 2014-12-12 22:18:26.423; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:18:26.427; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:18:26.424; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:19:10.835; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=20 
+INFO  - 2014-12-12 22:19:11.314; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:19:11.314; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:19:11.315; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:20:12.871; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=11 
+INFO  - 2014-12-12 22:20:13.359; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:20:13.362; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:20:13.363; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:20:49.388; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:20:49.864; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:20:49.864; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:20:49.865; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:24:33.354; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:24:33.850; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:24:33.853; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:24:33.860; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:26:51.716; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:26:52.244; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:26:52.247; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:26:52.258; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:28:03.650; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:28:04.191; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:28:04.192; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:28:04.192; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:28:34.647; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:28:35.134; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:28:35.137; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:28:35.135; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:28:52.302; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:28:52.787; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:28:52.787; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:28:52.787; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:29:22.062; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=15 
+INFO  - 2014-12-12 22:29:22.585; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:29:22.586; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=2 
+INFO  - 2014-12-12 22:29:22.587; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:31:46.011; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=21 
+INFO  - 2014-12-12 22:31:46.497; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:31:46.501; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 22:31:46.503; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:31:54.295; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:31:54.747; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:31:54.749; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:31:54.749; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:32:33.243; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:32:33.695; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:32:33.696; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:32:33.695; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:34:05.436; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=14 
+INFO  - 2014-12-12 22:34:05.896; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:34:05.900; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:34:05.901; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:35:06.084; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=20 
+INFO  - 2014-12-12 22:35:06.546; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:35:06.546; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:35:06.546; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:37:31.813; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=15 
+INFO  - 2014-12-12 22:37:32.269; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:37:32.269; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:37:32.273; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:37:54.957; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:37:55.397; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:37:55.400; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:37:55.399; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:38:01.523; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:38:02.007; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:38:02.008; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:38:02.009; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=2 
+INFO  - 2014-12-12 22:38:17.738; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:38:18.222; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:38:18.222; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:38:18.224; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:39:00.741; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:39:01.249; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:39:01.250; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:39:01.250; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:39:24.958; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:39:25.404; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:39:25.406; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:39:25.407; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:39:27.438; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:39:27.960; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:39:27.961; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:39:27.962; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:41:31.146; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:41:31.648; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:41:31.652; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:41:31.649; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:44:23.809; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:44:24.285; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:44:24.287; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:44:24.291; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:44:42.070; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:"911"&mlt=true} hits=1 status=0 QTime=10 
+INFO  - 2014-12-12 22:44:42.538; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:44:42.539; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:44:42.539; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:45:04.835; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=11 
+INFO  - 2014-12-12 22:45:05.298; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:45:05.299; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:45:05.301; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:45:40.445; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=13 
+INFO  - 2014-12-12 22:45:40.897; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:45:40.898; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:45:40.898; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 22:45:51.610; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=25 
+INFO  - 2014-12-12 22:45:52.052; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:45:52.054; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:45:52.053; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:46:13.593; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=12 
+INFO  - 2014-12-12 22:46:14.070; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:46:14.075; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:46:14.077; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:47:02.195; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=0&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:47:02.690; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:47:02.690; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:47:02.692; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:47:37.492; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=0&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:47:37.994; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:47:37.999; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:47:38.001; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:47:58.478; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=0&q=&queryOpts=advance} hits=604 status=0 QTime=17 
+INFO  - 2014-12-12 22:47:58.990; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:47:58.990; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:47:58.997; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:48:09.699; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=0&q=&queryOpts=advance} hits=604 status=0 QTime=17 
+INFO  - 2014-12-12 22:48:10.135; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:48:10.135; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:48:10.135; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:49:19.930; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=0&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+ERROR - 2014-12-12 22:49:19.969; org.apache.solr.common.SolrException; null:org.apache.velocity.exception.ParseErrorException: Encountered "<EOF>" at richtext_doc.vm[line 245, column 20]
+Was expecting one of:
+    "(" ...
+    <RPAREN> ...
+    <ESCAPE_DIRECTIVE> ...
+    <SET_DIRECTIVE> ...
+    "##" ...
+    "\\\\" ...
+    "\\" ...
+    <TEXT> ...
+    "*#" ...
+    "*#" ...
+    "]]#" ...
+    <STRING_LITERAL> ...
+    <END> ...
+    <IF_DIRECTIVE> ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <WORD> ...
+    <BRACKETED_WORD> ...
+    <IDENTIFIER> ...
+    <DOT> ...
+    "{" ...
+    "}" ...
+    <EMPTY_INDEX> ...
+    
+	at org.apache.velocity.Template.process(Template.java:151)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.loadResource(ResourceManagerImpl.java:437)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getResource(ResourceManagerImpl.java:352)
+	at org.apache.velocity.runtime.RuntimeInstance.getTemplate(RuntimeInstance.java:1533)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:197)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:106)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.directive.Foreach.render(Foreach.java:420)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:106)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.Template.merge(Template.java:356)
+	at org.apache.velocity.Template.merge(Template.java:260)
+	at org.apache.solr.response.VelocityResponseWriter.write(VelocityResponseWriter.java:100)
+	at org.apache.solr.core.SolrCore$LazyQueryResponseWriterWrapper.write(SolrCore.java:2534)
+	at org.apache.solr.servlet.SolrDispatchFilter.writeResponse(SolrDispatchFilter.java:765)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:426)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:207)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1419)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:455)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:557)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1075)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:384)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1009)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:154)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:489)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:942)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:744)
+
+INFO  - 2014-12-12 22:49:20.417; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:49:20.421; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:49:20.418; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:49:28.968; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=0&q=&queryOpts=advance} hits=604 status=0 QTime=24 
+ERROR - 2014-12-12 22:49:29.007; org.apache.solr.common.SolrException; null:org.apache.velocity.exception.ParseErrorException: Encountered "<EOF>" at richtext_doc.vm[line 244, column 20]
+Was expecting one of:
+    "(" ...
+    <RPAREN> ...
+    <ESCAPE_DIRECTIVE> ...
+    <SET_DIRECTIVE> ...
+    "##" ...
+    "\\\\" ...
+    "\\" ...
+    <TEXT> ...
+    "*#" ...
+    "*#" ...
+    "]]#" ...
+    <STRING_LITERAL> ...
+    <END> ...
+    <IF_DIRECTIVE> ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <WORD> ...
+    <BRACKETED_WORD> ...
+    <IDENTIFIER> ...
+    <DOT> ...
+    "{" ...
+    "}" ...
+    <EMPTY_INDEX> ...
+    
+	at org.apache.velocity.Template.process(Template.java:151)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.loadResource(ResourceManagerImpl.java:437)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getResource(ResourceManagerImpl.java:352)
+	at org.apache.velocity.runtime.RuntimeInstance.getTemplate(RuntimeInstance.java:1533)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:197)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:106)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.directive.Foreach.render(Foreach.java:420)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:106)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.Template.merge(Template.java:356)
+	at org.apache.velocity.Template.merge(Template.java:260)
+	at org.apache.solr.response.VelocityResponseWriter.write(VelocityResponseWriter.java:100)
+	at org.apache.solr.core.SolrCore$LazyQueryResponseWriterWrapper.write(SolrCore.java:2534)
+	at org.apache.solr.servlet.SolrDispatchFilter.writeResponse(SolrDispatchFilter.java:765)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:426)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:207)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1419)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:455)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:557)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1075)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:384)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1009)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:154)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:489)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:942)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:744)
+
+INFO  - 2014-12-12 22:49:29.424; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:49:29.425; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:49:29.424; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:49:37.069; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=0&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:49:37.518; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:49:37.521; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=3 
+INFO  - 2014-12-12 22:49:37.519; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:49:59.731; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=0&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:50:00.190; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:50:00.190; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:50:00.192; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:50:10.154; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=14 
+INFO  - 2014-12-12 22:50:10.652; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:50:10.653; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:50:10.652; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:50:45.584; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=10&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 22:50:46.062; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:50:46.062; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:50:46.062; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:50:55.297; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=11 
+INFO  - 2014-12-12 22:50:55.771; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:50:55.771; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:50:55.773; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:51:29.601; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:51:30.072; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:51:30.073; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:51:30.085; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:51:40.736; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=12 
+INFO  - 2014-12-12 22:51:41.187; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:51:41.188; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 22:51:41.188; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:51:49.722; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=31 
+INFO  - 2014-12-12 22:51:50.188; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:51:50.190; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:51:50.188; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:52:08.142; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=0 
+INFO  - 2014-12-12 22:52:08.606; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:52:08.610; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:52:08.609; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:52:44.483; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:52:45.079; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:52:45.083; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:52:45.085; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:53:09.410; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=12 
+INFO  - 2014-12-12 22:53:09.895; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:53:09.897; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:53:09.897; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:54:02.246; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:54:02.687; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:54:02.690; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 22:54:02.690; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:54:28.670; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 22:54:29.234; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:54:29.235; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:54:29.237; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=3 
+INFO  - 2014-12-12 22:54:43.756; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 22:54:44.208; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:54:44.210; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:54:44.209; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:54:50.517; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:552&mlt=true&queryOpts=advance} hits=1 status=0 QTime=5 
+INFO  - 2014-12-12 22:54:51.005; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:54:51.005; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:54:51.005; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:57:00.700; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:552&mlt=true&queryOpts=advance} hits=1 status=0 QTime=7 
+INFO  - 2014-12-12 22:57:01.174; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=7 
+INFO  - 2014-12-12 22:57:01.178; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:57:01.174; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=4 
+INFO  - 2014-12-12 22:57:35.022; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:552&mlt=true&queryOpts=advance} hits=1 status=0 QTime=5 
+INFO  - 2014-12-12 22:57:35.453; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:57:35.454; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 22:57:35.454; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:58:03.878; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:552&mlt=true&queryOpts=advance} hits=1 status=0 QTime=5 
+INFO  - 2014-12-12 22:58:04.325; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 22:58:04.327; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 22:58:04.325; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:01.716; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:552&mlt=true&queryOpts=advance} hits=1 status=0 QTime=5 
+INFO  - 2014-12-12 23:01:02.273; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:02.276; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:01:02.288; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:08.297; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:01:12.048; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 23:01:12.626; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:12.631; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:01:12.632; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:42.536; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=16 
+INFO  - 2014-12-12 23:01:43.023; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:43.025; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:43.024; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:01:45.140; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=12 
+INFO  - 2014-12-12 23:01:45.696; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:01:45.698; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:45.697; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:51.787; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=5 
+INFO  - 2014-12-12 23:01:52.298; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:01:52.299; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:01:52.299; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:02:45.711; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=5 
+INFO  - 2014-12-12 23:02:46.188; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:02:46.189; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:02:46.192; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:04:00.476; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=5 
+INFO  - 2014-12-12 23:04:00.900; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:04:00.904; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:04:00.900; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:04:18.969; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=4 
+INFO  - 2014-12-12 23:04:19.400; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:04:19.402; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:04:19.401; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:04:26.691; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=4 
+INFO  - 2014-12-12 23:04:27.133; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:04:27.136; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:04:27.135; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:04:38.367; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=0 
+INFO  - 2014-12-12 23:04:38.820; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:04:38.821; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:04:38.821; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:04:42.420; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=10 
+INFO  - 2014-12-12 23:04:42.843; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:04:42.845; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:04:42.846; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:05:12.127; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=7 
+INFO  - 2014-12-12 23:05:12.555; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:05:12.558; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:05:12.559; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:06:10.704; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=10 
+INFO  - 2014-12-12 23:06:11.135; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:06:11.137; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 23:06:11.137; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:08:20.689; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=5 
+INFO  - 2014-12-12 23:08:21.115; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:08:21.117; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:08:21.116; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:08:39.039; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=0 
+INFO  - 2014-12-12 23:08:39.482; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:08:39.489; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:08:39.489; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:11:29.408; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=11 
+INFO  - 2014-12-12 23:11:29.849; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:11:29.853; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 23:11:29.851; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:13:19.051; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:603&mlt=true&queryOpts=advance} hits=1 status=0 QTime=4 
+INFO  - 2014-12-12 23:13:19.461; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:13:19.468; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:13:19.474; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:13:21.927; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:13:25.067; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:"735"&mlt=true} hits=1 status=0 QTime=4 
+INFO  - 2014-12-12 23:13:25.594; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:13:25.595; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:13:25.598; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:14:11.448; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:"735"&mlt=true} hits=1 status=0 QTime=4 
+INFO  - 2014-12-12 23:14:11.918; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:14:11.919; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 23:14:11.919; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:15:37.125; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:"735"&mlt=true} hits=1 status=0 QTime=13 
+INFO  - 2014-12-12 23:15:37.530; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:15:37.531; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 23:15:37.531; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 23:16:04.558; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:"735"&mlt=true} hits=1 status=0 QTime=10 
+INFO  - 2014-12-12 23:16:04.977; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:16:04.980; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:16:04.979; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:16:20.190; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:"735"&mlt=true} hits=1 status=0 QTime=4 
+INFO  - 2014-12-12 23:16:20.603; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:16:20.608; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:16:20.610; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:16:27.921; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:"603"&mlt=true} hits=1 status=0 QTime=10 
+INFO  - 2014-12-12 23:16:28.394; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:16:28.394; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:16:28.394; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:17:41.433; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={q=id:"603"&mlt=true} hits=1 status=0 QTime=4 
+INFO  - 2014-12-12 23:17:41.862; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:17:41.864; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:17:41.863; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:18:49.016; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 23:18:49.485; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:18:49.488; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:18:49.486; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:19:11.892; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=8 
+INFO  - 2014-12-12 23:19:12.328; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:19:12.329; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:19:12.329; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:22:55.947; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 23:22:56.433; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:22:56.434; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:22:56.435; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 23:23:16.969; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 23:23:17.428; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:23:17.428; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:23:17.429; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 23:23:38.333; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 23:23:38.768; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:23:38.769; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:23:38.769; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:23:45.980; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=12 
+INFO  - 2014-12-12 23:23:46.419; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:23:46.419; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:23:46.419; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:24:28.968; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=18 
+INFO  - 2014-12-12 23:24:29.423; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:24:29.425; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:24:29.424; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=2 
+INFO  - 2014-12-12 23:25:29.509; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=10 
+INFO  - 2014-12-12 23:25:29.963; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:25:29.964; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:25:29.964; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:26:23.521; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=12 
+INFO  - 2014-12-12 23:26:24.009; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 
+INFO  - 2014-12-12 23:26:24.012; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:26:24.013; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:27:21.170; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=9 
+INFO  - 2014-12-12 23:27:21.632; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:27:21.638; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:27:21.638; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:27:54.362; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=22 
+INFO  - 2014-12-12 23:27:54.821; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:27:54.822; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=1 
+INFO  - 2014-12-12 23:27:54.821; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:28:03.831; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/browse params={start=20&q=&queryOpts=advance} hits=604 status=0 QTime=12 
+INFO  - 2014-12-12 23:28:04.295; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.js&contentType=text/javascript} status=0 QTime=0 
+INFO  - 2014-12-12 23:28:04.299; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/main.css&contentType=text/css} status=0 QTime=1 
+INFO  - 2014-12-12 23:28:04.301; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/admin/file params={file=/velocity/jquery.autocomplete.css&contentType=text/css} status=0 QTime=0 

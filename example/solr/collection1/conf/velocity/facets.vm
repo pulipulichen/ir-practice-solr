@@ -3,7 +3,7 @@
  *  Invokes the 4 facet and 1 cluster template
  *#
 
-<div class="ui segment">
+<div class="ui raised segment" style="margin-left: 20px;">
 #parse('facet_fields.vm')
 
 #**

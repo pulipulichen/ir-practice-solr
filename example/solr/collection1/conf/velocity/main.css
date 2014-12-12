@@ -40,13 +40,13 @@ a {
 }
 
 .navigators {
-  float: left;
-  margin: 5px;
+  /*float: left;*/
+  /*margin: 20px;*/
   margin-top: 0px;
-  width: 185px;
+  /*width: 185px;*/
   padding: 5px;
-  top: -20px;
-  position: relative;  
+  /*top: -20px;
+  position: relative;  */
 }
 
 .tabs-bar {
@@ -168,20 +168,23 @@ a {
 }
 
 .pagination {
-  padding-left: 33%;
+  /*padding-left: 33%;
   background: #eee;
   margin: 5px;
   margin-left: 210px;
   padding-top: 5px;
   padding-bottom: 5px;
+  */
 }
 
 .result-document {
+  /*
   border: 1px solid #999;
   padding: 5px;
   margin: 5px;
   margin-left: 210px;
   margin-bottom: 15px;
+  */
 }
 
 .result-document div{
@@ -224,11 +227,13 @@ li.show {
 }
 
 .error {
+    /*
   color: white;
   background-color: red;
   left: 210px;
   width:80%;
   position: relative;
+  */
 
 }
 

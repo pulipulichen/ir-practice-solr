@@ -6,8 +6,7 @@
 
 #set($docId = $doc.getFieldValue('id'))
 
-<div class="result-document">
-
+<div class="result-document ui vertical segment">
   ## Has a "name" field ?
   #if($doc.getFieldValue('name'))
     ##parse("product_doc.vm")
