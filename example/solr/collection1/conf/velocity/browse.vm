@@ -7,7 +7,9 @@
 #set($clusters = $response.response.clusters)
 #set($mltResults = $response.response.get("moreLikeThis"))
 #set($annotate = $params.get("annotateBrowse"))
-#parse('query_form.vm')
+#if($params.get('mlt') != true) 
+    #parse('query_form.vm')
+#end
 #parse('did_you_mean.vm')
 
 #set($mltOn = $params.getBool('mlt'))

@@ -8,9 +8,11 @@
     Field Facets
   </h2>
   <div class="ui basic segment">
+  #set($facet_results_empty = true)
   #foreach($field in $response.facetFields)
     ## Hide facets without value
     #if($field.values.size() > 0)
+      #set($facet_results_empty = false)
       <span class="facet-field ui tag label">$field.name</span>
       <ul>
         #foreach($facet in $field.values)
@@ -19,5 +21,8 @@
       </ul>
     #end  ## end if > 0
   #end    ## end for each facet field
+#if ($facet_results_empty == true)
+    No facets found.
+#end
     </div>
 #end      ## end if response has facet fields

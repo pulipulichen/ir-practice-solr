@@ -3,3 +3,4 @@
 /example/solr/collection1/data/tlog/*
 example/logs/solr.log
 example/velocity.log
+example/velocity.log*

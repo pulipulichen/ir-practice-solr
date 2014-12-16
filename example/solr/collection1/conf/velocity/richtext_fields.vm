@@ -50,6 +50,16 @@
         #else
             <td>
         #end
+        
+        #if($name == 'title')
+            #if($access_point==false)
+                <h2 class="ui dividing header">
+            #else
+                #set($access_point = '?q=id:%22'+$docId+'%22&mlt=true')
+                <h3 class="ui dividing header">
+                <a href="$access_point">
+            #end
+        #end
 
         #foreach ($value in $value_array)
             #set($ori_value = $ori_array[$i])
@@ -61,36 +71,29 @@
                 $comma
 
                 #if($access_point==false)
-                    #if($name == 'title')
-                        <h2 class="ui dividing header">
-                            <!-- <i class="book medium icon" style="display:inline-block;padding-top:0;font-size:1em;"></i> -->
-                            $display_value
-                        </h2>
-                    #else
-                        $display_value
-                    #end
-
+                    $display_value
                 #else
                     #if($name == 'title')
-                        #set($access_point = '?q=id:%22'+$docId+'%22&mlt=true')
-                        <!-- <i class="book medium icon"></i> -->
-                        <h3 class="ui dividing header">
-                        <a href="$access_point">
-                            
-                            $display_value
-                        </a>
-                        </h3>
+                        $display_value
                     #else
                         #set($access_point = '?q='+$name+':%22'+$ori_value+'%22')
-
                         <a href="$access_point">
                             $display_value
                         </a>
                     #end
                 #end
             
-            #set( $comma = "," )
+            #set( $comma = ";" )
             #set($i = $i+1)
+        #end
+
+        #if($name == 'title')
+            #if($access_point==false)
+                </h2>
+            #else
+                </a>
+                </h3>
+            #end
         #end
         </td>
     </tr>
