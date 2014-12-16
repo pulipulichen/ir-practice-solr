@@ -42,6 +42,7 @@
     #set($fields = $result_fields)
 #end
 
+<table class="ui table">
 #foreach ($field in $fields)
 
     #set($name = $field['name'])
@@ -59,9 +60,9 @@
     #end
 
     #if ($value_array != "")
-    <div>
+    <tr>
         #if($label != false)
-            <strong>$label</strong>:
+            <th class="right aligned"><strong>$label</strong>:</th>
         #end
         
         #if (!$value_array.size())
@@ -73,9 +74,15 @@
 
         #set( $comma = "" )
         #set($i = 0)
+
+        #if ($label == false)
+            <td colspan="2">
+        #else
+            <td>
+        #end
+
         #foreach ($value in $value_array)
             #set($ori_value = $ori_array[$i])
-            <span>
                 #set($display_value = $value)
                 #if ($label == false)
                     #set($display_value = "<strong>"+$value+"</strong>")
@@ -109,13 +116,15 @@
                         </a>
                     #end
                 #end
-            <span>
+            
             #set( $comma = "," )
             #set($i = $i+1)
         #end
-    </div>
+        </td>
+    </tr>
     #end
 #end
+</table>
 
 #############################
 
@@ -192,14 +201,12 @@
 
 ###################
 #foreach ($field in $similar_fields)
-
+    <div>
     #set($name = $field['name'])
     #set($label = $field['label'])
     #set($access_point = $field['access_point'])
 
     #set($value_array = $mltHit.getFieldValue($name))
-
-    <div>
         #if($label != false)
             <strong>$label</strong>:
         #end
@@ -209,8 +216,9 @@
         #end
 
         #set( $comma = "" )
+
         #foreach ($value in $value_array)
-            <span>
+          <span>
                 #set($display_value = $value)
                 #if ($label == false)
                     #set($display_value = "<strong>"+$value+"</strong>")
@@ -231,11 +239,9 @@
                         $display_value
                     </a>
                 #end
-            <span>
             #set( $comma = "," )
+            </span>
         #end
-
-
 
     </div>
 #end

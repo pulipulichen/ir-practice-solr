@@ -20,7 +20,7 @@
   #parse("error.vm")
 </div>
 #end
-#if($params.get('q') && $params.get('q') == "")
+#if($params.get('q') && !$params.get('fq') && $params.get('q') == "")
 <div class="ui warning message">
     
     <div class="header"><i class="icon help"></i>No search query</div>

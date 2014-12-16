@@ -246,3 +246,20 @@ form {
     font-weight: blod;
     text-decoration: underline;
 } 
+
+.ui.table,
+.ui.table th,
+.ui.table td {
+    border-width: 0 !important;
+    vertical-align: top !important;
+}
+
+.ui.table {
+    width: auto !important;
+    margin-top:0 !important;
+}
+
+.ui.table th {
+    width: 100px !important;
+    padding:.7em .8em;
+}
