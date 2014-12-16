@@ -23,7 +23,7 @@
 
     <div class="td-adv-add-field two wide column">
         <button type="button" class="add-field ui button fluid ">
-            Add Field
+            <!-- Add Field -->
             <i class="plus icon"></i>
         </button>
     </div>

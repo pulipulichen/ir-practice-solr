@@ -59,7 +59,7 @@
 
     </div>
 #else
-    <div class="sixteen wide column">
+    <div class="sixteen wide column full">
 
     ## Show Error Message, if any
     #if( $response.response.error.code )

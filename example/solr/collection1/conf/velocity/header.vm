@@ -5,8 +5,10 @@
     <a href="#url_for_home#if($request.params.get('debugQuery'))?debugQuery=true#end">
   <img src="#{url_root}/img/library-logo-medium.png"/>
   <div class="content">
-    Apache Solr
-    <div class="sub header">Information Retrieval Practice.</div>
+    #param('title')
+    <div class="sub header">
+        #param('sub.title')
+    </div>
   </div>
     </a>
 </h1>

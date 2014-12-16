@@ -56,6 +56,7 @@
 #macro(link_to_previous_page $text)
   #if($page.current_page_number > 1)
     #set($prev_start = $page.start - $page.results_per_page)
+    <i class="chevron left icon"></i>
     <a class="prev-page" href="#url_for_start($prev_start)">$text</a>
   #end
 #end
@@ -64,6 +65,7 @@
   #if($page.current_page_number < $page.page_count)
     #set($next_start = $page.start + $page.results_per_page)
     <a class="next-page" href="#url_for_start($next_start)">$text</a>
+    <i class="chevron right icon"></i>
   #end
 #end
 

@@ -3,10 +3,11 @@
 top: 0;
 z-index: 999;
 width: 100%;">
-  <div class="header item" 
+  <a class="header item" 
+    href="#url_for_home#if($request.params.get('debugQuery'))?debugQuery=true#end"
     style="background-image:url(#{url_root}/img/library-logo-small.png); padding-left: 50px;background-repeat:no-repeat;" href="#url_for_home#if($request.params.get('debugQuery'))?debugQuery=true#end">
-    Apache Solr IR Practice
-  </div>
+    #param('title')
+  </a>
 
   #set( $selected = ! $queryOpts )
   <a class="item #if($selected)active#end" href="#url_for_home/?#debug#annotate">
@@ -32,7 +33,7 @@ width: 100%;">
       <div class="ui icon input mini inverted" >
         
         <input type="text" name="q" placeholder="Search..." style="background-color:white;" />
-        <button class="ui icon button small"><i class="search icon"></i></button>
+        <button class="ui icon button small"><i class="search small icon"></i></button>
         
       </div>
 

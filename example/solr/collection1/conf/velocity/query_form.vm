@@ -16,7 +16,7 @@
 
           <!------------------------------>
        
-        <div class="adv_search_form ui segment">
+        <div class="adv_search_form ui basic segment">
                 <div class="ui grid row template" style="display:none;">
                         #parse('adv_fields.vm')
                 </div>
@@ -85,8 +85,13 @@
 
         #else
             <div class="ui icon input">
-                <i class="search icon"></i>
-                <input type="text" id="q" name="q" value="$!esc.html($params.get('q'))"/>
+                <i class="search small icon"></i>
+                #set($q_value = "")
+                #set($q_value = $!esc.html($params.get('q')))
+                #if ($q_value.length > 3 && $q_value.substring(0,3) == "id:")
+                    #set($q_value = "")
+                #end
+                <input type="text" id="q" name="q" value="$q_value"/>
             </div>
         #end
 

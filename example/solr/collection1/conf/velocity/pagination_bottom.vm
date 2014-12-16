@@ -10,20 +10,21 @@
 
 <div class="ui text menu">
   <div class="ui icon item">
-    <i class="chevron left icon"></i>
     #link_to_previous_page("previous")
   </div>
 
   <div class="ui text item">
+    <!--
     <span class="results-found">$page.results_found</span>
     results found.
-
+    -->
+    <strong>
     Page <span class="page-num">$page.current_page_number</span>
       of <span class="page-count">$page.page_count</span>
+    </strong>
   </div>
   <div class="ui icon item">
     #link_to_next_page("next")
-    <i class="chevron right icon"></i>
   </div>
 </div>
 

@@ -250,6 +250,7 @@ form {
 .ui.table,
 .ui.table th,
 .ui.table td {
+    background-color: transparent;
     border-width: 0 !important;
     vertical-align: top !important;
 }
@@ -262,4 +263,16 @@ form {
 .ui.table th {
     width: 100px !important;
     padding:.7em .8em;
+}
+
+.extra.ui.right.floated.basic.segment {
+    margin-top: 1em;
+}
+
+.full .result-document:nth-child(2n+1) {
+    background-color: transparent;
+}
+
+#footer {
+    margin-top: 1em;
 }
