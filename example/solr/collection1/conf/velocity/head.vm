@@ -14,7 +14,6 @@
 
   <script type="text/javascript" src="#{url_root}/lib/semantic-ui/semantic.min.js"></script>
   <link rel="stylesheet" type="text/css" href="#{url_root}/lib/semantic-ui/semantic.min.css"/>
-  <!-- <link rel="stylesheet" type="text/css" href="#{url_root}/lib/semantic-ui/themes/semantic-ui-theme-amazon.css"/> -->
 
     <script>
     $(document).ready(function(){

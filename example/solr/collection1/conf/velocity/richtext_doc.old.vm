@@ -4,7 +4,7 @@
 
 #############################
 
-#parse("richtext_fields.vm")
+#parse("display_fields.vm")
 
 #############################
 

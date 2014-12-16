@@ -130,6 +130,15 @@
    <field name="toc" type="text_general" indexed="true" stored="true" multiValued="true"/>
    <field name="includes" type="text_general" indexed="true" stored="true" termVectors="true" termPositions="true" termOffsets="true" />
 
+   <!--
+     請新增<field>設定欄位
+     
+     name="title"：欄位名稱
+     type="text_general"：資料形態，跟斷詞有關
+     indexed="true"：是否索引，true才能被檢索
+     stored="true"：是否儲存，true才能用highlight
+     multivalued="true"：是否允許多值
+     -->
    <field name="thickness" type="float" indexed="true" stored="true"/>
    <field name="price"  type="float" indexed="true" stored="true"/>
    <field name="popularity" type="int" indexed="true" stored="true" />
@@ -197,6 +206,8 @@
     <field name="e_book_isbn" type="text_general" indexed="true" stored="true" multiValued="true"/>
     <field name="volume" type="text_general" indexed="true" stored="true" multiValued="true"/>
     <field name="language" type="text_general" indexed="true" stored="true" multiValued="true"/>
+    <field name="item_type" type="text_general" indexed="true" stored="true" multiValued="true"/>
+    <field name="added_date" type="text_general" indexed="true" stored="true" multiValued="true"/>
     
    <!--
      Some fields such as popularity and manu_exact could be modified to

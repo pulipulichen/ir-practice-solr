@@ -989,8 +989,12 @@
        <!-- Faceting defaults -->
        <str name="facet">on</str>
        <str name="facet.missing">false</str>
-       <str name="facet.field">publish_year</str>
-       <str name="facet.field">subject</str>
+
+       <!--
+         修改此處以設定層面檢索功能
+         <str name="facet.field">要開啟層面檢索的欄位</str>
+         -->
+       <str name="facet.field">item_type</str>
        <!-- <str name="facet.field">cat</str>
        <str name="facet.field">manu_exact</str>
        <str name="facet.field">content_type</str>

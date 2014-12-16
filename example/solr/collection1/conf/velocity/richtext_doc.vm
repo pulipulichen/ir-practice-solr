@@ -22,7 +22,7 @@
 
 #############################
 
-#parse("richtext_fields.vm")
+#parse("display_fields.vm")
 
 #############################
 
@@ -30,10 +30,10 @@
 
 #if($mltOn != true)
 <div class="extra">
-            <div class="ui right floated primary button">
+            <a class="ui right floated primary button" href="#lensNoQ&q=id:$docId&mlt=true">
               Read More
               <i class="right chevron icon"></i>
-            </div>
+            </a>
           </div>
 #end
 
@@ -50,12 +50,15 @@
 
 
     #set($ori_array = $doc.getFieldValue($name))
-    #if (!$hitField[$name])
+    #if (!$hitField[$name] && !$doc.getFieldValue($name))
+        #set($value_array = "")
+    #elseif (!$hitField[$name])
         #set($value_array = $doc.getFieldValue($name))
     #else
         #set($value_array = $hitField[$name])
     #end
 
+    #if ($value_array != "")
     <div>
         #if($label != false)
             <strong>$label</strong>:
@@ -110,10 +113,8 @@
             #set( $comma = "," )
             #set($i = $i+1)
         #end
-
-
-
     </div>
+    #end
 #end
 
 #############################

@@ -1,0 +1,1 @@
+explorer.exe "..\..\example\solr\collection1\conf\velocity"

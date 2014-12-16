@@ -20,7 +20,7 @@
     {'name': 'lcc', 'label': 'LCC', 'access_point': true}
 ])
 
-## 類似資料的顯示
+## 類似資料顯示欄位
 #set($similar_fields = [
     {'name': 'title', 'label': false, 'access_point': true},
     {'name': 'author', 'label': 'Author', 'access_point': false},
@@ -28,7 +28,7 @@
     {'name': 'subject', 'label': 'Subject', 'access_point': true}
 ])
 
-## 詳細檢索的欄位
+## 詳細檢索可使用的欄位
 #set($advance_search_fields = [
     {'name': 'title', 'label': 'Title'},
     {'name': 'author', 'label': 'Author'},

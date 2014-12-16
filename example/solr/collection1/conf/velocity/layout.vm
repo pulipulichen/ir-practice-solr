@@ -8,6 +8,9 @@
 </head>
   <body>
     <!-- <div id="admin"><a href="#url_root/#/#core_name">Solr Admin</a></div> -->
+    <div id="menu">
+      #parse("menu.vm")
+    </div>
     <div id="header">
       #parse("header.vm")
     </div>
