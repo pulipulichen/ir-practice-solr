@@ -1,0 +1,11 @@
+
+public class ListNode { //以ListNode類別來定義一個鏈結串列的節點
+	int data;
+	ListNode link; // 指向下一個節點
+	public ListNode(int value,  ListNode nextNode) //建立一個新節點包含2個資料成員
+	{  data = value;	//儲存的資料
+	   link = nextNode; //指向下一個節點的鏈結
+	}
+	public ListNode(int value)
+	{ this(value,null); }  // 建立空的新節點
+}

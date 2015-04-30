@@ -1,0 +1,3 @@
+cd ..\..\example\exampledocs\
+"..\..\OpenJDK\bin\java" -Ddata=args -jar post.jar "<delete><query>*:*</query></delete>"
+set /p DUMMY=Hit ENTER to exit...

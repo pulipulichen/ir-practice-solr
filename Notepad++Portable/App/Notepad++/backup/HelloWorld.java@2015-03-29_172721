@@ -1,0 +1,17 @@
+/**
+ * =========== Program Description ===============
+ * 程式名稱 : HelloWorld.java
+ * 演算法名稱：HelloWorld
+ * 輸入：無
+ * 輸出：HelloWorld字串
+ * ========================================== 
+ */
+public class HelloWorld
+{
+	public static void main(String args[])
+	{
+		System.out.println("HelloWorld"); 
+		// 顯示字串HelloWorld
+		
+	}
+}
