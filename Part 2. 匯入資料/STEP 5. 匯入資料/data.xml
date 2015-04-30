@@ -1,0 +1,947 @@
+<add>
+
+	<doc>
+		<field name="id">465820596</field>
+		<field name="title">Fra det nu forsvundne Solrød kommune</field>
+		<field name="author">Steen Rosendahl</field>
+		<field name="author">Solrød lokalhistoriske arkiv</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[København] : Strandbergs forlag, 1984</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">479686183</field>
+		<field name="title">Råd og vejledning for børn og unge og deres forældre</field>
+		<field name="author">Solrød Kommune. Pædagogisk-psykologisk rådgivning</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Solrød : Solrød Kommune. Pædagogisk-psykologisk rådgivning, 1990?</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">478370788</field>
+		<field name="title">Et hjem i fritiden</field>
+		<field name="author">Solrød Kommune</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Solrød : kommunen, 1988</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">488492529</field>
+		<field name="title">Solrød atletik &amp; motion</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">Solrød</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">871903776</field>
+		<field name="title">Solrød på 2 hjul</field>
+		<field name="author">Vibeke Andersen</field>
+		<field name="author">Lis Egebjerg</field>
+		<field name="author">Knud Jørgensen</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">audiobook_cd</field>
+		<field name="publisher">[Solrød Strand] : Solrød Bibliotek, 2009</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">797915547</field>
+		<field name="title">Drupal Web Services</field>
+		<field name="author">Trevor James</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham : Packt Pub., 2010.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">652165136</field>
+		<field name="title">Encyclopedia of the Gilded Age and Progressive Era</field>
+		<field name="author">John D Buenker</field>
+		<field name="author">Joseph Buenker</field>
+		<field name="author">Sharpe Online Reference.</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, NY : Sharpe Reference, 2005.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">869293455</field>
+		<field name="title">MultiMedia modeling : 20th Anniversary International Conference, MMM 2014, Dublin, Ireland, January 6-10, 2014, Proceedings. Part II</field>
+		<field name="author">Cathal Gurrin</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Cham : Springer, 2014.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">3327903</field>
+		<field name="title">Stars, their birth, life, and death</field>
+		<field name="author">I  S Shklovskiĭ</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">San Francisco : W.H. Freeman, ©1978.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">826631176</field>
+		<field name="title">Nannofossil biostratigraphy of the Solrød-2 well, Danish Basin</field>
+		<field name="author">Emma Sheldon</field>
+		<field name="author">Jon R Ineson</field>
+		<field name="author">Paul Bown</field>
+		<field name="author">Danmark. Nationale Geologiske Undersøgelser for Danmark og Grønland</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Copenhagen : GEUS, Geological Survey of Denmark and Greenland, 2012</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">839357611</field>
+		<field name="title">Fra chef til leder : de kommunale chefers muligheder for at være ledere i den offentlige kontekst : undersøgelse af lederroller i Solrød Kommune</field>
+		<field name="author">Allan Jørgensen</field>
+		<field name="author">København Universitet. Institut for Statskundskab</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Kbh. : Københavns Universitet, Institut for Statskundskab, 1996</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">747046446</field>
+		<field name="title">America in world history</field>
+		<field name="author">Susan Crean</field>
+		<field name="author">Tom Lansford</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, N.Y. : M.E. Sharpe, 2010.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">754961413</field>
+		<field name="title">Booms and busts : an encyclopedia of economic history from Tulipmania of the 1630s to the global financial crisis of the 21st century</field>
+		<field name="author">James Ciment</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, NY : Sharpe, ©2010.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">823523181</field>
+		<field name="title">Jackpot</field>
+		<field name="author">Jo Nesbø</field>
+		<field name="author">Mads Ousdal</field>
+		<field name="author">Mads Martens</field>
+		<field name="language">挪威語（Norwegian）</field>
+		<field name="item_type">video_dvd</field>
+		<field name="publisher">[Australia] : Reel DVD [distributor], 2012.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">873643307</field>
+		<field name="title">Solrækkehusene i Vonsild</field>
+		<field name="author">Ole Balslev-Olsen</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Ballerup : Cenergia Energy Consultants, 1997</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">457076283</field>
+		<field name="title">Social issues in America : an encyclopedia</field>
+		<field name="author">James Ciment</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, NY : Sharpe Reference, 2006.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">762117779</field>
+		<field name="title">Solrød nyt</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">news</field>
+		<field name="publisher">Solrød Strand : Solrød Nyt, [2007]-</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">466212531</field>
+		<field name="title">Venstre i Solrød</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">Solrød Strand</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">775599580</field>
+		<field name="title">The Civil War era and Reconstruction : an encyclopedia of social, political, cultural, and economic history</field>
+		<field name="author">Mary Ellen Snodgrass</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, NY : M.E. Sharpe, 2011.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">671239766</field>
+		<field name="title">Asian American history and culture</field>
+		<field name="author">Huping Ling</field>
+		<field name="author">Allan W Austin</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, N.Y. : Sharpe//Online Reference, 2010.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">643586701</field>
+		<field name="title">Sharpe--online reference. [Core references in U.S. history and culture]</field>
+		<field name="author">Sharpe Reference (Firm)</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_continuing</field>
+		<field name="publisher">[Armonk, N.Y]. : M. E. Sharpe.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">795700161</field>
+		<field name="title">Solrød avis</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">news</field>
+		<field name="publisher">Solrød Strand : Solrød Avis, 2009-2012</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">742364804</field>
+		<field name="title">Latino history and culture : an encyclopedia</field>
+		<field name="author">David J Leonard</field>
+		<field name="author">Carmen R Lugo-Lugo</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, NY : Sharpe Reference, 2010.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">471643904</field>
+		<field name="title">Solrød kommune §3-arealer</field>
+		<field name="author">Roskilde Amtskommune. Teknisk forvaltning. Vandmiljø- og Naturkontoret</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Roskilde : Roskilde Amt. Teknisk forvaltning. Vandmiljø-og Naturkontoret, 1995</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">643341406</field>
+		<field name="title">Jahresbericht / Universitätsbibliothek Erlangen-Nürnberg</field>
+		<field name="author">Universitätsbibliothek (Erlangen</field>
+		<field name="author">Nürnberg)</field>
+		<field name="language">德文</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">Erlangen.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">476673099</field>
+		<field name="title">Engen - sletten - skoven : landskabelig helhedsplan til boligbebyggelse ved Vaseeng i Solrød = The meadow - the plain - the forest</field>
+		<field name="author">Carl-Johan Skibsted Andersen</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book_thsis</field>
+		<field name="publisher">[København] : Den Kgl. Veterinær- og Landbohøjskole, Center for Skov, Landskab og Planlægning, Sektion for Parker og Urbane Landskaber, 2006</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">846520556</field>
+		<field name="title">Lokalavisen for Solrød og omegn : lokalavis for Solrød, Havdrup, Karlstrup, Ølby, Lille Skensved og Karlslunde</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">news</field>
+		<field name="publisher">Solrød</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">468240888</field>
+		<field name="title">Vi så det ... ikke! : har 2 1/2-års besøg af sundhedsplejersken den effekt som ventet?</field>
+		<field name="author">Solrød</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[Solrød] : [Solrød Kommune], [1995]</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">835403112</field>
+		<field name="title">En voldsom omvej : evaluering af en omdannet støjvold i Solrød</field>
+		<field name="author">Charlotte Skau Pawlowski</field>
+		<field name="author">Syddansk Universitet. Institut for Idræt og Biomekanik</field>
+		<field name="author">God Omvej - Bevægelse i Lokalområdet (projekt)</field>
+		<field name="author">Charlotte Skau Pawlowski</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[Odense] : Syddansk Universitet, Institut for Idræt og Biomekanik, 2012</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">476639557</field>
+		<field name="title">Pas på svinget i Solrød</field>
+		<field name="title">Bella donna</field>
+		<field name="author">S Steensted</field>
+		<field name="author">M Mogensen</field>
+		<field name="author">Gasolin</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">music</field>
+		<field name="publisher">CBS, 1976</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">61100413</field>
+		<field name="title">Ud over Solrød : en skoles arkitektur og billedkunst</field>
+		<field name="author">Geert A Nielsen</field>
+		<field name="author">Jette Gustavsen</field>
+		<field name="author">et al</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[Solrød Strand] : Solrød Gymnasium, 2000.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">468304067</field>
+		<field name="title">Kirkebog for Solrød Sogn 1752-1814</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[Brønshøj] : [Wodskou], [1994]</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">776613202</field>
+		<field name="title">Encyclopedia of American social movements</field>
+		<field name="author">Immanuel Ness</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, NY : Sharpe Reference, 2004.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">460174021</field>
+		<field name="title">Hvem har glæde af økologisk forsøgsbyggeri? : en undersøgelse af konkrete og strukturelle aspekter i forbindelse med realiseringen af bæredygtigt almen boligbyggeri - med Solrækkehusene i Kolding som eksempel</field>
+		<field name="author">Rasmus Brodersen</field>
+		<field name="author">Læreanstalternes Fælles Byplankursus 1997-1998. Gruppe 4</field>
+		<field name="author">Læreanstalternes Fælles Byplankursus 1997-1998</field>
+		<field name="author">et al</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Kbh. : Læreanstalternes Fælles Byplankursus, 1998</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">468239216</field>
+		<field name="title">Toftebo tidende</field>
+		<field name="author">Solrød Kommunes Plejehjem Toftebo</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">1978-</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">864382349</field>
+		<field name="title">High performance Drupal</field>
+		<field name="author">Jeff Sheltren</field>
+		<field name="author">Narayan Newton</field>
+		<field name="author">Nathaniel Catchpole</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Sebastopol, CA : O&#39;Reilly, [2014]</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">830253091</field>
+		<field name="title">Vandplanlægning i Solrød Kommune : en undersøgelse af ændringen af afstrømningen på grund af drikkevandseksport og spildevandsudledning fra Solrød Kommune</field>
+		<field name="author">Lars Kristian Rudolph Hansen</field>
+		<field name="author">Københavns Universitet. Geografisk Institut</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book_thsis</field>
+		<field name="publisher">Kbh. : Geografisk Institut, Københavns Universitet, 2006</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">724603370</field>
+		<field name="title">American countercultures : an encyclopedia of nonconformists, alternative lifestyles, and radical ideas in U.S. history</field>
+		<field name="author">Gina Renée Misiroglu</field>
+		<field name="author">Sharpe Online Reference.</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, N.Y. : Sharpe Reference, 2009.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">467088516</field>
+		<field name="title">Redegørelse for større ændringer i kommuneplanen</field>
+		<field name="author">Solrød Kommune. Teknisk Forvaltning. Byplanafdelingen</field>
+		<field name="author">Andersen og Sattrup I/S</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Solrød : Solrød Kommune, 1988</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">858031670</field>
+		<field name="title">Guide book</field>
+		<field name="author">New England Intercollegiate Geological Conference,</field>
+		<field name="language">英語</field>
+		<field name="item_type">web_digital</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">816513795</field>
+		<field name="title">Democratic, Republican and third parties in America : 1790s-2011</field>
+		<field name="author">Tom Lansford</field>
+		<field name="author">James Ciment</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">[Armonk, NY] : M.E. Sharpe, 2013.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">798535934</field>
+		<field name="title">Ruby on Rails 3.1 Expertenwissen : Eine praxisorientierte Einführung in die Entwicklung mit Ruby on Rails.</field>
+		<field name="author">Stefan Sprenger</field>
+		<field name="author">Kieran Hayes</field>
+		<field name="language">德文</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">dpunkt.verlag, 2012.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">476394778</field>
+		<field name="title">Fælleskommunal affaldsbehandling, Roskilde : kommunerne: Bramsnæs, Greve, Gundsø, Hvalsø, Køge, Lejre, Ramsø, Roskilde, Skovbo, Solrød, Vallø : teknisk og økonomisk redegørelse</field>
+		<field name="author">Miljøudvalget for kommuner i Roskilde amt. Underudvalget for fast affald.</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Roskilde, 1973.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">800180759</field>
+		<field name="title">Sports in America</field>
+		<field name="author">Steven A Riess</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, NY : M.E. Sharpe, 2011.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">468219175</field>
+		<field name="title">Lokalavisen Sydkysten, Weekend : Solrød, Karlslunde, Greve, Tune, Ishøj</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">news</field>
+		<field name="publisher">Greve : Lokalavisen Sydkysten, 1995-</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">894939971</field>
+		<field name="title">Solrød Bibliotek : biblioteksplan 1987-1998</field>
+		<field name="author">Solrød</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[Solrød] : [Solrød kommune], [1986]</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">867075394</field>
+		<field name="title">Web Crawling and Data Mining with Apache Nutch</field>
+		<field name="author">Dr Zakir Laliwala</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Packt Publishing, 2013.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">853238550</field>
+		<field name="title">Alfresco 4 Enterprise Content Management Implementation</field>
+		<field name="author">Munwar Shariff</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham, UK : Packt Publishing, 2013.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">671236263</field>
+		<field name="title">Encyclopedia of conflicts since World War II</field>
+		<field name="author">James Ciment</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Armonk, N.Y. : Sharpe//Online Reference, 2010.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">876220100</field>
+		<field name="title">Aktivisten. Aktivitetscenterets blad med informationer til alle pensionister/efterlønsmodtagere i Solrød Kommune</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">Solrød Strand</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">798843811</field>
+		<field name="title">World terrorism : an encyclopedia of political violence from ancient times to the post-9/11 era</field>
+		<field name="author">James Ciment</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">[Armonk, NY] : M.E. Sharpe, 2011.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">872471746</field>
+		<field name="title">Biodegradation of 2,4-dichlorophenol in sequencing batch anaerobic reactors.</field>
+		<field name="author">Yisu Zeng</field>
+		<field name="author">University of Ottawa. Dept. of Civil Engineering.</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_thsis</field>
+		<field name="publisher">1996</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">873941039</field>
+		<field name="title">Aktivisten. Aktivitetscenterets blad med informationer til alle pensionister/efterlønsmodt. i Solrød</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">Solrød Strand</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">872207222</field>
+		<field name="title">Budget ... og budgetoverslag for ... / Solrød Kommune</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">Solrød</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">488400901</field>
+		<field name="title">Planstrategi 2007 : oplæg til det kommende kommuneplanarbejde</field>
+		<field name="author">Solrød Kommune. Byrådet</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Solrød : Solrød Kommune, Byrådet, 2007</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">775304431</field>
+		<field name="title">Lev lokalt bugtbladet, Greve, Solrød, Køge</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">[Danmark]</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">876295210</field>
+		<field name="title">Kommuneplan 2013-2025. Hovedstruktur</field>
+		<field name="author">Solrød Kommune. Teknik og Miljø</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[S. l.] : Solrød Kommune, 2013</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">645400553</field>
+		<field name="title">Das Forschungsjahr / Deutsches Jugendinstitut</field>
+		<field name="author">Deutsches Jugendinstitut (München)</field>
+		<field name="language">德文</field>
+		<field name="item_type">jrnl_digital</field>
+		<field name="publisher">München Deutsches Jugendinstitut.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">461588606</field>
+		<field name="title">Jubilæumsskrift : Solrød Lokalhistoriske Forening</field>
+		<field name="author">Knud Jørgensen</field>
+		<field name="author">et al</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[Solrød] : Solrød Lokalhistoriske Forening, 2000</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">783959141</field>
+		<field name="title">Baldersbæk, Ishøj-Havbogårdsvej, Solrød</field>
+		<field name="author">København-Ringsted projektet</field>
+		<field name="author">Danmark. Trafikstyrelsen for Jernbane og Færger</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Kbh. : Trafikstyrelsen for Jernbane og Færger, 2008</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">224018031</field>
+		<field name="title">Contemporary challenges and implications for leaders in frontline human service organisations : research report</field>
+		<field name="author">P  A Duignan</field>
+		<field name="author">et al</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Strathfield, NSW : Flagship for Catholic Educational Leadership, ACU National, 2003.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">761348073</field>
+		<field name="title">Klimaplan for Solrød Kommune 2010-2025</field>
+		<field name="author">Solrød Kommune. Teknisk Administration</field>
+		<field name="author">Roskilde Universitet, (Institut for Miljø, Samfund og Rumlig Forandring)</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Solrød Strand : Solrød Kommune, Teknisk Administration, [2009]</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">475299429</field>
+		<field name="title">Kommuneplan : tema om by- og boligudbygning</field>
+		<field name="author">Solrød Kommune</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Solrød : Solrød Kommune, 1997</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">823716149</field>
+		<field name="title">Vi baner vejen for bedre trafikforbindelser : trafikale konsekvenser for dig i anlægsfasen : anlæg af Den nye bane København-Ringsted over Køge : udbygning af Køge Bugt Motorvejen mellem Greve Syd og Solrød Syd</field>
+		<field name="author">Vejdirektoratet</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Kbh. : Vejdirektoratet</field>
+		<field name="publisher">Brøndby : Banedanmark, 2012</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">488404849</field>
+		<field name="title">Friluftsliv i Greve, Lejre, Roskilde og Solrød Kommuner</field>
+		<field name="author">Friluftsrådet</field>
+		<field name="author">Friluftsrådet. Kreds Roskilde</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Kbh. : Friluftsrådets sekretariat</field>
+		<field name="publisher">Hvalsø : Friluftsrådets kreds Roskilde, 2008</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">468067918</field>
+		<field name="title">Gymnasten : medlemsblad for Solrød Gymnastikforening</field>
+		<field name="author">Solrød Gymnastikforening</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">19??-</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">887726538</field>
+		<field name="title">Brücken in Holz: Möglichkeiten und Grenzen = Ponts en bois: opportunités et limites = Timber bridges: potentialities and limits</field>
+		<field name="author">Rolf Bachofner</field>
+		<field name="author">Jürg Conzett</field>
+		<field name="author">Conzett, Bronzini, Gartmann.</field>
+		<field name="author">Schweiz. Bundesamt für Strassen.</field>
+		<field name="author">Schweiz. Arbeitsgruppe Brückenforschung.</field>
+		<field name="language">德文</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[Bern] : Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK, Bundesamt für Strassen, 2013.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">758374734</field>
+		<field name="title">Analyzing the next-generation catalog</field>
+		<field name="author">Andrew Nagy</field>
+		<field name="author">ALA TechSource.</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Chicago, IL : ALA TechSource, 2011.</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">475299471</field>
+		<field name="title">Kommuneplan : Tema om vindmøller</field>
+		<field name="author">Solrød Kommune</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Solrød : Solrød Kommune, 1997</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">783959170</field>
+		<field name="title">Havbogårdsvej, Solrød-Salbyvej, Ejby</field>
+		<field name="author">København-Ringsted projektet</field>
+		<field name="author">Danmark. Trafikstyrelsen for Jernbane og Færger</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Kbh. : Trafikstyrelsen for Jernbane og Færger, 2008</field>
+		<field name="added_date">2014-12-14 04:38</field>
+	</doc>
+	<doc>
+		<field name="id">873859036</field>
+		<field name="title">Solr 1.4 enterprise search server : enhance your search with faceted navigation, result highlighting, fuzzy queries, ranked scoring, and more. - Includes index. - Description based on print version record</field>
+		<field name="author">David Smiley</field>
+		<field name="author">Eric Pugh</field>
+		<field name="language">英語</field>
+		<field name="item_type">compfile_digital</field>
+		<field name="publisher">Birmingham, U.K. : Packt Pub., 2009.</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">744652884</field>
+		<field name="title">Real-time searching of big data with Solr and Hadoop</field>
+		<field name="author">Ron Cope</field>
+		<field name="language">英語</field>
+		<field name="item_type">video_digital</field>
+		<field name="publisher">[United States?] : O&#39;Reilly Media, 2011.</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">862652382</field>
+		<field name="title">Real time searching of big data using Hadoop, Lucene, and Solr</field>
+		<field name="author">Dibyendu Bhattacharya</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[Hopkinton, Mass.] : EMC Corp., 2012</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">818849373</field>
+		<field name="title">Apache Solr Secrets To Acing The Exam and Successful Finding And Landing Your Next Apache Solr Certified Job</field>
+		<field name="author">Dennis Cummings</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Dayboro : Emereo Pub., 2012.</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">851970680</field>
+		<field name="title">Liferay Portal Performance</field>
+		<field name="author">Samir Bhatt</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham : Packt Publishing, 2013.</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">867835171</field>
+		<field name="title">Free search engine software : apache solr, compass project, dataparksearch, docfetcher, grub</field>
+		<field name="author">Source Wikipedia</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[S.l.] : University-Press Org, 2013</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">775856776</field>
+		<field name="title">Information Retrieval mit Apache Lucene : Analyse und Entwicklung einer benutzerbeeinflussbaren Produktsuche auf Basis von Lucene und Solr</field>
+		<field name="author">Steffen Baumgart</field>
+		<field name="language">德文</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Saarbrücken : VDM Verl. Müller, 2011.</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">465742178</field>
+		<field name="title">Omkring Havdrup - Solrød - Køge Bugt</field>
+		<field name="author">F Skovby Mikkelsen</field>
+		<field name="author">Helge Andersen</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[Solrød Strand] : Eget forlag : [eksp. Helge Andersen], [1980]</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">463720058</field>
+		<field name="title">Solrød Lokalhistoriske Forening.</field>
+		<field name="author">Solrød Lokalhistoriske Forening.</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">jrnl</field>
+		<field name="publisher">Solrød Strand : Solrød Lokalhistoriske Forening, [1977]-</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">465621177</field>
+		<field name="title">Fra sommerland til bysamfund : Solrød Strands grundejerforening 1917-1967</field>
+		<field name="language">丹麥語（Danish）</field>
+		<field name="item_type">book</field>
+		<field name="publisher">(Kbh.), 1967</field>
+		<field name="added_date">2014-12-14 04:37</field>
+	</doc>
+	<doc>
+		<field name="id">847948441</field>
+		<field name="title">Instant Apache Solr for Indexing Data How-to</field>
+		<field name="author">Alexandre Rafalovitch</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Packt Publishing, 2013.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">874965998</field>
+		<field name="title">Apache Solr High Performance</field>
+		<field name="author">Surendra Mohan</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham : Packt Publishing, 2014.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">860923146</field>
+		<field name="title">Administrating Solr</field>
+		<field name="author">Surendra Mohan</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Packt Publishing, 2013.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">885019803</field>
+		<field name="title">Scaling Apache Solr</field>
+		<field name="author">Hrishikesh Vijay Karambelkar</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham : Packt Publishing, 2014.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">490988541</field>
+		<field name="title">Solr 1.4 Enterprise Search Server : enhance your search with faceted navigation, result highlighting, fuzzy queries, ranked scoring, and more</field>
+		<field name="author">David Smiley</field>
+		<field name="author">Eric Pugh</field>
+		<field name="author">James Brady</field>
+		<field name="author">Jerome Eteve</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham, UK : Packt Pub., 2009.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">830813834</field>
+		<field name="title">Solr in action</field>
+		<field name="author">Trey Grainger</field>
+		<field name="author">Timothy Potter</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Shelter Island, NY : Manning, 2014.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">757519381</field>
+		<field name="title">Apache Solr 3.1 cookbook</field>
+		<field name="author">Rafał Kuć</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham, UK : Packt Pub., 2011.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">842846325</field>
+		<field name="title">Apache Solr 4 cookbook</field>
+		<field name="author">Rafał Kuć</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham, UK : Packt Pub., 2013.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">857712339</field>
+		<field name="title">Scaling Big Data with Hadoop and Solr</field>
+		<field name="author">Hrishikesh Karambelkar</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Packt Publishing, 2013.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">867316995</field>
+		<field name="title">Apache Solr Beginner&#39;s Guide</field>
+		<field name="author">Alfredo Serafini</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham : Packt Publishing, 2013.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">894301283</field>
+		<field name="title">Pro apache solr : building scalable search solutions.</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">[S.l.] : Apress, 2015.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">774288834</field>
+		<field name="title">Apache Solr 3 Enterprise Search Server : enhance your search with faceted navigation, result highlighting, relevancy ranked sorting, and more</field>
+		<field name="author">David Smiley</field>
+		<field name="author">Eric Pugh</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham : Packt Pub., 2011.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">876417678</field>
+		<field name="title">Einführung in Apache Solr : [Praxiseinstieg in die innovative Suchtechnologie]</field>
+		<field name="author">Markus Klose</field>
+		<field name="author">Daniel Wrigley</field>
+		<field name="language">德文</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Beijing [u.a.] : O&#39;Reilly, 2014.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">753700915</field>
+		<field name="title">Apache Solr 3.1 cookbook : over 100 recipes to discover new ways to work with Apache&#39;s enterprise search server</field>
+		<field name="author">Rafal Kuc</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham, Ala. : Packt Publ., 2011.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">746229856</field>
+		<field name="title">Solr 3.1 Cookbook</field>
+		<field name="author">Rafał Kuc</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Birmingham [u.a.] : Packt Publ., 2011.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">869833410</field>
+		<field name="title">Apache Solr PHP integration : build a fully-featured and scalable search application using PHP to unlock the search functions provided by Solr</field>
+		<field name="author">Jayant Kumar</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham, UK : Packt Pub., 2013.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">746603084</field>
+		<field name="title">Solr 1.4 Enterprise Search Server</field>
+		<field name="author">David Smiley, Eric Pugh.</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Packt Pub. 2009.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">834573685</field>
+		<field name="title">Apache Solr 4 cookbook : over 100 recipes to make Apache Solr faster, more reliable, and return better results</field>
+		<field name="author">Rafał Kuć</field>
+		<field name="language">英語</field>
+		<field name="item_type">book_digital</field>
+		<field name="publisher">Birmingham : Packt Pub., 2013.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">862757857</field>
+		<field name="title">Lucene and Solr</field>
+		<field name="author">Lajos Moczar</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Boston : Addison-Wesley, 2014.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+	<doc>
+		<field name="id">827267981</field>
+		<field name="title">Lucene and Solr : the definitive guide : the comprehensive guide to Lucene and Solr for realtime big data</field>
+		<field name="author">Jason Rutherglen</field>
+		<field name="author">Ryan Tabora</field>
+		<field name="author">Jack Krupansky</field>
+		<field name="language">英語</field>
+		<field name="item_type">book</field>
+		<field name="publisher">Beijing : O&#39;Reilly, 2013.</field>
+		<field name="added_date">2014-12-14 04:36</field>
+	</doc>
+
+</add>
