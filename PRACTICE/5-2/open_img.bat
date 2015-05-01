@@ -1,0 +1,1 @@
+explorer.exe "..\..\example\solr-webapp\webapp\img"

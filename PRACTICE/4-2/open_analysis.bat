@@ -1,0 +1,1 @@
+START "" "http://localhost:8983/solr/#/collection1/analysis?analysis.fieldvalue=Increasing&analysis.query=RISE&analysis.fieldtype=text_en&verbose_output=0"

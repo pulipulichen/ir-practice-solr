@@ -1,0 +1,1 @@
+"..\..\Notepad++Portable\Notepad++Portable.exe" "..\..\example\solr\collection1\conf\lang\stopwords_en.txt"

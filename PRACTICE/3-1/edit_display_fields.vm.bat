@@ -1,0 +1,1 @@
+"..\..\Notepad++Portable\Notepad++Portable.exe" "..\..\example\solr\collection1\conf\velocity\display_fields.vm"
