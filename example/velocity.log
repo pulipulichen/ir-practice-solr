@@ -4,3 +4,606 @@
 2015-04-30 22:00:17,577 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
 2015-04-30 22:00:28,542 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
 2015-04-30 22:00:28,542 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 22:48:56,054 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 22:50:32,632 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:36:04,208 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:36:04,208 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:44:26,965 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:44:26,965 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:44:26,965 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:44:52,565 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:44:52,565 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:44:52,565 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:44:52,565 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:56:07,615 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:58:30,734 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-04-30 23:58:30,734 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:00:47,662 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:00:47,662 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:00:54,870 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:00:54,870 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:00:54,870 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:01:00,938 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:01:00,938 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:01:00,938 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:02:36,518 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:02:36,518 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:02:36,518 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:02:36,518 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:03:36,427 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:03:36,427 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:03:36,427 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:03:36,427 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:03:36,427 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:03:45,543 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:03:45,543 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:00,287 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:00,287 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:00,287 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:17,404 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:17,404 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:23,610 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:23,610 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:23,610 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:30,058 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:30,058 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:30,058 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:30,058 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:39,450 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:39,450 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:39,450 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:39,450 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 00:04:39,450 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 02:56:10,670 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 02:56:10,670 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 02:56:10,670 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 02:56:10,670 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 02:56:10,670 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 02:56:10,670 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 02:58:05,649 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 02:59:02,721 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 02:59:02,721 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 03:52:12,696 - Parser Exception: display_fields.vm
+org.apache.velocity.runtime.parser.ParseException: Encountered "]" at line 8, column 1.
+Was expecting one of:
+    "[" ...
+    "{" ...
+    <STRING_LITERAL> ...
+    "true" ...
+    "false" ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <IDENTIFIER> ...
+    "{" ...
+    "[" ...
+    
+	at org.apache.velocity.runtime.parser.Parser.generateParseException(Parser.java:3679)
+	at org.apache.velocity.runtime.parser.Parser.jj_consume_token(Parser.java:3558)
+	at org.apache.velocity.runtime.parser.Parser.Parameter(Parser.java:1306)
+	at org.apache.velocity.runtime.parser.Parser.ObjectArray(Parser.java:1092)
+	at org.apache.velocity.runtime.parser.Parser.PrimaryExpression(Parser.java:2629)
+	at org.apache.velocity.runtime.parser.Parser.UnaryExpression(Parser.java:2586)
+	at org.apache.velocity.runtime.parser.Parser.MultiplicativeExpression(Parser.java:2435)
+	at org.apache.velocity.runtime.parser.Parser.AdditiveExpression(Parser.java:2359)
+	at org.apache.velocity.runtime.parser.Parser.RelationalExpression(Parser.java:2227)
+	at org.apache.velocity.runtime.parser.Parser.EqualityExpression(Parser.java:2151)
+	at org.apache.velocity.runtime.parser.Parser.ConditionalAndExpression(Parser.java:2111)
+	at org.apache.velocity.runtime.parser.Parser.ConditionalOrExpression(Parser.java:2071)
+	at org.apache.velocity.runtime.parser.Parser.Expression(Parser.java:2018)
+	at org.apache.velocity.runtime.parser.Parser.SetDirective(Parser.java:1971)
+	at org.apache.velocity.runtime.parser.Parser.Statement(Parser.java:369)
+	at org.apache.velocity.runtime.parser.Parser.process(Parser.java:317)
+	at org.apache.velocity.runtime.parser.Parser.parse(Parser.java:117)
+	at org.apache.velocity.runtime.RuntimeInstance.parse(RuntimeInstance.java:1226)
+	at org.apache.velocity.runtime.RuntimeInstance.parse(RuntimeInstance.java:1181)
+	at org.apache.velocity.Template.process(Template.java:134)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.loadResource(ResourceManagerImpl.java:437)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getResource(ResourceManagerImpl.java:352)
+	at org.apache.velocity.runtime.RuntimeInstance.getTemplate(RuntimeInstance.java:1533)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:197)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:87)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.Template.merge(Template.java:356)
+	at org.apache.velocity.Template.merge(Template.java:260)
+	at org.apache.solr.response.VelocityResponseWriter.write(VelocityResponseWriter.java:100)
+	at org.apache.solr.core.SolrCore$LazyQueryResponseWriterWrapper.write(SolrCore.java:2534)
+	at org.apache.solr.servlet.SolrDispatchFilter.writeResponse(SolrDispatchFilter.java:765)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:426)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:207)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1419)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:455)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:557)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1075)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:384)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1009)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:154)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:489)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:942)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:722)
+2015-05-01 03:52:12,698 - ResourceManager.getResource() parse exception
+org.apache.velocity.exception.ParseErrorException: Encountered "]" at display_fields.vm[line 8, column 1]
+Was expecting one of:
+    "[" ...
+    "{" ...
+    <STRING_LITERAL> ...
+    "true" ...
+    "false" ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <IDENTIFIER> ...
+    "{" ...
+    "[" ...
+    
+	at org.apache.velocity.Template.process(Template.java:151)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.loadResource(ResourceManagerImpl.java:437)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getResource(ResourceManagerImpl.java:352)
+	at org.apache.velocity.runtime.RuntimeInstance.getTemplate(RuntimeInstance.java:1533)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:197)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:87)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.Template.merge(Template.java:356)
+	at org.apache.velocity.Template.merge(Template.java:260)
+	at org.apache.solr.response.VelocityResponseWriter.write(VelocityResponseWriter.java:100)
+	at org.apache.solr.core.SolrCore$LazyQueryResponseWriterWrapper.write(SolrCore.java:2534)
+	at org.apache.solr.servlet.SolrDispatchFilter.writeResponse(SolrDispatchFilter.java:765)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:426)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:207)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1419)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:455)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:557)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1075)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:384)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1009)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:154)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:489)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:942)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:722)
+2015-05-01 03:52:12,698 - #parse(): syntax error in #parse()-ed template 'display_fields.vm', called at query_form.vm[line 5, column 1]
+2015-05-01 03:52:12,698 - Exception rendering #parse(query_form.vm) at browse.vm[line 11, column 5]
+2015-05-01 03:52:12,717 - Parser Exception: display_fields.vm
+org.apache.velocity.runtime.parser.ParseException: Encountered "]" at line 8, column 1.
+Was expecting one of:
+    "[" ...
+    "{" ...
+    <STRING_LITERAL> ...
+    "true" ...
+    "false" ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <IDENTIFIER> ...
+    "{" ...
+    "[" ...
+    
+	at org.apache.velocity.runtime.parser.Parser.generateParseException(Parser.java:3679)
+	at org.apache.velocity.runtime.parser.Parser.jj_consume_token(Parser.java:3558)
+	at org.apache.velocity.runtime.parser.Parser.Parameter(Parser.java:1306)
+	at org.apache.velocity.runtime.parser.Parser.ObjectArray(Parser.java:1092)
+	at org.apache.velocity.runtime.parser.Parser.PrimaryExpression(Parser.java:2629)
+	at org.apache.velocity.runtime.parser.Parser.UnaryExpression(Parser.java:2586)
+	at org.apache.velocity.runtime.parser.Parser.MultiplicativeExpression(Parser.java:2435)
+	at org.apache.velocity.runtime.parser.Parser.AdditiveExpression(Parser.java:2359)
+	at org.apache.velocity.runtime.parser.Parser.RelationalExpression(Parser.java:2227)
+	at org.apache.velocity.runtime.parser.Parser.EqualityExpression(Parser.java:2151)
+	at org.apache.velocity.runtime.parser.Parser.ConditionalAndExpression(Parser.java:2111)
+	at org.apache.velocity.runtime.parser.Parser.ConditionalOrExpression(Parser.java:2071)
+	at org.apache.velocity.runtime.parser.Parser.Expression(Parser.java:2018)
+	at org.apache.velocity.runtime.parser.Parser.SetDirective(Parser.java:1971)
+	at org.apache.velocity.runtime.parser.Parser.Statement(Parser.java:369)
+	at org.apache.velocity.runtime.parser.Parser.process(Parser.java:317)
+	at org.apache.velocity.runtime.parser.Parser.parse(Parser.java:117)
+	at org.apache.velocity.runtime.RuntimeInstance.parse(RuntimeInstance.java:1226)
+	at org.apache.velocity.runtime.RuntimeInstance.parse(RuntimeInstance.java:1181)
+	at org.apache.velocity.Template.process(Template.java:134)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.loadResource(ResourceManagerImpl.java:437)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getResource(ResourceManagerImpl.java:352)
+	at org.apache.velocity.runtime.RuntimeInstance.getTemplate(RuntimeInstance.java:1533)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:197)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:87)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.Template.merge(Template.java:356)
+	at org.apache.velocity.Template.merge(Template.java:260)
+	at org.apache.solr.response.VelocityResponseWriter.write(VelocityResponseWriter.java:100)
+	at org.apache.solr.core.SolrCore$LazyQueryResponseWriterWrapper.write(SolrCore.java:2534)
+	at org.apache.solr.servlet.SolrDispatchFilter.writeResponse(SolrDispatchFilter.java:765)
+	at org.apache.solr.servlet.SolrDispatchFilter.sendError(SolrDispatchFilter.java:812)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:434)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:207)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1419)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:455)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:557)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1075)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:384)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1009)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:154)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:489)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:942)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:722)
+2015-05-01 03:52:12,717 - Parser Exception: display_fields.vm
+org.apache.velocity.runtime.parser.ParseException: Encountered "]" at line 8, column 1.
+Was expecting one of:
+    "[" ...
+    "{" ...
+    <STRING_LITERAL> ...
+    "true" ...
+    "false" ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <IDENTIFIER> ...
+    "{" ...
+    "[" ...
+    
+	at org.apache.velocity.runtime.parser.Parser.generateParseException(Parser.java:3679)
+	at org.apache.velocity.runtime.parser.Parser.jj_consume_token(Parser.java:3558)
+	at org.apache.velocity.runtime.parser.Parser.Parameter(Parser.java:1306)
+	at org.apache.velocity.runtime.parser.Parser.ObjectArray(Parser.java:1092)
+	at org.apache.velocity.runtime.parser.Parser.PrimaryExpression(Parser.java:2629)
+	at org.apache.velocity.runtime.parser.Parser.UnaryExpression(Parser.java:2586)
+	at org.apache.velocity.runtime.parser.Parser.MultiplicativeExpression(Parser.java:2435)
+	at org.apache.velocity.runtime.parser.Parser.AdditiveExpression(Parser.java:2359)
+	at org.apache.velocity.runtime.parser.Parser.RelationalExpression(Parser.java:2227)
+	at org.apache.velocity.runtime.parser.Parser.EqualityExpression(Parser.java:2151)
+	at org.apache.velocity.runtime.parser.Parser.ConditionalAndExpression(Parser.java:2111)
+	at org.apache.velocity.runtime.parser.Parser.ConditionalOrExpression(Parser.java:2071)
+	at org.apache.velocity.runtime.parser.Parser.Expression(Parser.java:2018)
+	at org.apache.velocity.runtime.parser.Parser.SetDirective(Parser.java:1971)
+	at org.apache.velocity.runtime.parser.Parser.Statement(Parser.java:369)
+	at org.apache.velocity.runtime.parser.Parser.process(Parser.java:317)
+	at org.apache.velocity.runtime.parser.Parser.parse(Parser.java:117)
+	at org.apache.velocity.runtime.RuntimeInstance.parse(RuntimeInstance.java:1226)
+	at org.apache.velocity.runtime.RuntimeInstance.parse(RuntimeInstance.java:1181)
+	at org.apache.velocity.Template.process(Template.java:134)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.loadResource(ResourceManagerImpl.java:437)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getResource(ResourceManagerImpl.java:352)
+	at org.apache.velocity.runtime.RuntimeInstance.getTemplate(RuntimeInstance.java:1533)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:197)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:87)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.Template.merge(Template.java:356)
+	at org.apache.velocity.Template.merge(Template.java:260)
+	at org.apache.solr.response.VelocityResponseWriter.write(VelocityResponseWriter.java:100)
+	at org.apache.solr.core.SolrCore$LazyQueryResponseWriterWrapper.write(SolrCore.java:2534)
+	at org.apache.solr.servlet.SolrDispatchFilter.writeResponse(SolrDispatchFilter.java:765)
+	at org.apache.solr.servlet.SolrDispatchFilter.sendError(SolrDispatchFilter.java:812)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:434)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:207)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1419)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:455)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:557)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1075)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:384)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1009)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:154)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:489)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:942)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:722)
+2015-05-01 03:52:12,718 - ResourceManager.getResource() parse exception
+org.apache.velocity.exception.ParseErrorException: Encountered "]" at display_fields.vm[line 8, column 1]
+Was expecting one of:
+    "[" ...
+    "{" ...
+    <STRING_LITERAL> ...
+    "true" ...
+    "false" ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <IDENTIFIER> ...
+    "{" ...
+    "[" ...
+    
+	at org.apache.velocity.Template.process(Template.java:151)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.loadResource(ResourceManagerImpl.java:437)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getResource(ResourceManagerImpl.java:352)
+	at org.apache.velocity.runtime.RuntimeInstance.getTemplate(RuntimeInstance.java:1533)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:197)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:87)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.Template.merge(Template.java:356)
+	at org.apache.velocity.Template.merge(Template.java:260)
+	at org.apache.solr.response.VelocityResponseWriter.write(VelocityResponseWriter.java:100)
+	at org.apache.solr.core.SolrCore$LazyQueryResponseWriterWrapper.write(SolrCore.java:2534)
+	at org.apache.solr.servlet.SolrDispatchFilter.writeResponse(SolrDispatchFilter.java:765)
+	at org.apache.solr.servlet.SolrDispatchFilter.sendError(SolrDispatchFilter.java:812)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:434)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:207)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1419)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:455)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:557)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1075)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:384)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1009)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:154)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:489)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:942)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:722)
+2015-05-01 03:52:12,718 - ResourceManager.getResource() parse exception
+org.apache.velocity.exception.ParseErrorException: Encountered "]" at display_fields.vm[line 8, column 1]
+Was expecting one of:
+    "[" ...
+    "{" ...
+    <STRING_LITERAL> ...
+    "true" ...
+    "false" ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <IDENTIFIER> ...
+    "{" ...
+    "[" ...
+    
+	at org.apache.velocity.Template.process(Template.java:151)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.loadResource(ResourceManagerImpl.java:437)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getResource(ResourceManagerImpl.java:352)
+	at org.apache.velocity.runtime.RuntimeInstance.getTemplate(RuntimeInstance.java:1533)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:197)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.directive.Parse.render(Parse.java:260)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:87)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.Template.merge(Template.java:356)
+	at org.apache.velocity.Template.merge(Template.java:260)
+	at org.apache.solr.response.VelocityResponseWriter.write(VelocityResponseWriter.java:100)
+	at org.apache.solr.core.SolrCore$LazyQueryResponseWriterWrapper.write(SolrCore.java:2534)
+	at org.apache.solr.servlet.SolrDispatchFilter.writeResponse(SolrDispatchFilter.java:765)
+	at org.apache.solr.servlet.SolrDispatchFilter.sendError(SolrDispatchFilter.java:812)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:434)
+	at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDispatchFilter.java:207)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1419)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:455)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:557)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1075)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:384)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1009)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:154)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:489)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:942)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:722)
+2015-05-01 03:52:12,718 - #parse(): syntax error in #parse()-ed template 'display_fields.vm', called at query_form.vm[line 5, column 1]
+2015-05-01 03:52:12,718 - #parse(): syntax error in #parse()-ed template 'display_fields.vm', called at query_form.vm[line 5, column 1]
+2015-05-01 03:52:12,718 - Exception rendering #parse(query_form.vm) at browse.vm[line 11, column 5]
+2015-05-01 03:52:12,718 - Exception rendering #parse(query_form.vm) at browse.vm[line 11, column 5]
+2015-05-01 03:52:18,350 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 03:59:14,955 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 03:59:14,955 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:08:22,000 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:08:22,000 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:08:22,000 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:09:07,514 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:10:16,417 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:12:00,157 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:17:23,363 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:17:46,103 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:17:48,461 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:17:48,461 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:17:53,501 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:17:53,501 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:17:53,501 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:18:00,915 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:18:41,617 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:19:24,839 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:20:33,425 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:20:54,264 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:21:37,823 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:21:43,374 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:21:43,374 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:22:30,578 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:22:41,438 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:22:41,438 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:23:38,485 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:35:35,214 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:37:03,076 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:37:03,076 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:37:14,162 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:37:14,162 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:37:14,162 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:39:27,265 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:39:27,265 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:20,053 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:20,053 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:20,053 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:20,053 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:22,816 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:22,816 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:22,816 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:22,816 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:22,816 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:27,146 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:48,751 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:48,751 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:44:48,751 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:33,170 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:33,170 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:33,170 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:51,990 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:51,990 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:51,990 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:51,990 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:57,520 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:57,520 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:57,520 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:57,520 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:50:57,520 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:13,249 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:13,249 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:13,249 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:13,249 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:13,249 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:13,249 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:16,966 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:16,966 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:16,966 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:16,966 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:16,966 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:16,966 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:51:16,966 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:53:52,150 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 04:53:52,150 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:09:35,964 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:09:35,964 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:10:09,166 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:10:09,166 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:11:52,896 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:11:52,896 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:25:02,816 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:32:34,494 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:38:53,014 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:39:26,262 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:39:26,262 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:39:26,262 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:39:39,399 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:39:39,399 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:53:00,925 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:55:30,597 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:55:30,597 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 05:55:30,597 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 06:34:25,778 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:14:46,037 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:14:46,037 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:15:36,648 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:15:36,648 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:15:36,648 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:15:41,667 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:15:41,667 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:15:41,667 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:16:48,087 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:16:48,087 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:16:48,087 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:16:48,087 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:17:45,980 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:32:38,269 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:32:38,282 - Left side ($list.size($request.params.getParams('fq'))) of '>' operation has null value at footer.vm[line 36, column 92]
+2015-05-01 09:32:44,452 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:32:44,452 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 09:32:44,458 - Left side ($list.size($request.params.getParams('fq'))) of '>' operation has null value at footer.vm[line 28, column 92]
+2015-05-01 09:32:44,458 - Left side ($list.size($request.params.getParams('fq'))) of '>' operation has null value at footer.vm[line 28, column 92]
+2015-05-01 09:32:44,458 - Left side ($list.size($request.params.getParams('fq'))) of '>' operation has null value at footer.vm[line 36, column 92]
+2015-05-01 09:32:44,458 - Left side ($list.size($request.params.getParams('fq'))) of '>' operation has null value at footer.vm[line 36, column 92]
+2015-05-01 10:04:38,476 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 10:04:38,476 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 10:12:29,508 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 10:16:41,368 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 10:16:41,368 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 11:46:13,847 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 11:46:13,847 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 12:33:12,664 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 12:35:33,007 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 12:35:33,007 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 12:35:41,377 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 12:35:41,377 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
+2015-05-01 12:35:41,377 - Left side ($collations.size()) of '>' operation has null value at did_you_mean.vm[line 6, column 25]
