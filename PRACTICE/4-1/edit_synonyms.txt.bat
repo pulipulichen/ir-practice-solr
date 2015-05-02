@@ -1,1 +1,0 @@
-"..\..\Notepad++Portable\Notepad++Portable.exe" "..\..\example\solr\collection1\conf\synonyms.txt"
