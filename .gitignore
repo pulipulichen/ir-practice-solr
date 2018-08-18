@@ -5,3 +5,5 @@ example/logs/solr.log
 example/velocity.log
 example/velocity.log*
 ir-practice-solr.zip
+/example/velocity.log
+/example/logs/*
